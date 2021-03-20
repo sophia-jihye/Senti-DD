@@ -1,0 +1,14 @@
+Number of headlines = 1808
+Number of polar headlines = 707
+
+Selected tokens (59)
+['mn', 'passenger', 'oyj', 'quarter', 'result', 'half', 'period', 'year', 'percent', 'volume', 'end', 'operating', 'profit', 'eur', 'solution', 'mln', 'contract', 'sale', 'group', 'business', 'operation', 'stock', 'bank', 'loss', 'turnover', 'month', 'income', 'share', 'company', 'earnings', 'market', 'revenue', 'report', 'tax', 'september', 'hel', 'today', 'net', 'finland', 'item', 'cost', 'price', 'eps', 'order', 'pct', 'liter', 'helsinki', 'news', 'system', 'maker', 'margin', 'euro', 'currency', 'beer', 'manufacturer', 'rate', 'trade', 'june', 'industry']
+
+Number of proportional type headlines = 391	 inversely_proportional type headlines = 6
+
+Proportional type entities (47)
+mn, oyj, year, volume, end, operating, solution, contract, sale, profit, loss, income, quarter, earnings, revenue, group, september, item, order, month, passenger, news, maker, margin, euro, pct, finland, period, beer, helsinki, eur, market, rate, system, trade, currency, tax, business, mln, june, eps, turnover, industry, liter, report, hel, today
+Inversely proportional type entities (2)
+cost, price
+
+Number of positive pairs: 962	 negative pairs: 557

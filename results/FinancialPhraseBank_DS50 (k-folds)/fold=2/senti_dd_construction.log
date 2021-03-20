@@ -1,0 +1,14 @@
+Number of headlines = 3868
+Number of polar headlines = 1565
+
+Selected tokens (88)
+['group', 'operating', 'loss', 'mn', 'profit', 'period', 'sale', 'eur', 'june', 'euro', 'percent', 'year', 'report', 'quarter', 'phone', 'manufacturer', 'china', 'net', 'company', 'maker', 'hel', 'today', 'result', 'technology', 'paper', 'pct', 'month', 'earnings', 'share', 'eps', 'turnover', 'eur0', 'half', 'omx', 'helsinki', 'mln', 'solution', 'system', 'brewery', 'growth', 'margin', 'capital', 'efficiency', 'tax', 'income', 'finland', 'passenger', 'news', 'oyj', 'contract', 'capacity', 'bank', 'service', 'demand', 'business', 'investment', 'stock', 'september', 'market', 'liter', 'metal', 'price', 'unit', 'cost', 'operation', 'end', 'revenue', 'index', 'order', 'volume', 'point', 'beer', 'product', 'production', 'tonne', 'item', 'trade', 'number', 'rate', '+àland', 'interest', 'level', 'cent', 'russia', 'plant', 'area', 'traffic', 'construction']
+
+Number of proportional type headlines = 523	 inversely_proportional type headlines = 23
+
+Proportional type entities (59)
+group, profit, period, june, sale, report, phone, net, maker, paper, month, eur, quarter, turnover, eur0, mln, solution, brewery, growth, capital, efficiency, share, income, finland, news, contract, passenger, demand, investment, september, metal, system, percent, oyj, order, volume, production, item, trade, margin, +àland, manufacturer, rate, capacity, half, revenue, business, year, cent, end, interest, hel, liter, area, traffic, product, beer, mn, tonne
+Inversely proportional type entities (6)
+result, company, construction, cost, index, plant
+
+Number of positive pairs: 1246	 negative pairs: 769

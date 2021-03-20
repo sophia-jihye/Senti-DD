@@ -1,0 +1,14 @@
+Number of headlines = 3367
+Number of polar headlines = 1366
+
+Selected tokens (93)
+['quarter', 'sale', 'year', 'rate', 'growth', 'news', 'system', 'solution', 'company', 'hel', 'today', 'profit', 'eur', 'value', 'tax', 'mn', 'period', 'production', 'group', 'operating', 'euro', 'revenue', 'percent', 'turnover', 'month', 'eps', 'eur0', 'price', 'capital', 'traffic', 'passenger', 'capacity', 'half', 'management', 'income', 'result', 'earnings', 'share', 'end', 'mln', 'line', 'loss', 'demand', 'use', 'investment', 'property', 'bank', 'product', 'operation', 'software', 'oyj', 'margin', 'division', 'maker', 'report', 'september', 'omx', 'cost', 'volume', 'market', 'tonne', 'order', 'unit', 'contract', 'pct', 'june', 'beer', 'liter', 'cent', 'business', 'helsinki', 'finland', 'technology', 'interest', 'stock', 'net', 'manufacturer', 'paper', 'medium', 'construction', 'ebit', 'service', 'index', 'point', 'day', 'trade', 'acquisition', 'number', 'item', 'orion', 'metal', 'industry', 'steel']
+
+Number of proportional type headlines = 516	 inversely_proportional type headlines = 15
+
+Proportional type entities (63)
+quarter, news, value, profit, group, eps, capital, revenue, year, income, tax, earnings, end, mln, demand, solution, margin, division, use, growth, sale, passenger, report, contract, eur0, beer, maker, technology, interest, stock, month, paper, medium, volume, ebit, product, period, turnover, september, liter, business, trade, acquisition, system, share, bank, service, cent, orion, tonne, june, metal, line, net, eur, investment, oyj, item, order, mn, management, property, manufacturer
+Inversely proportional type entities (6)
+day, cost, unit, traffic, construction, company
+
+Number of positive pairs: 1326	 negative pairs: 813

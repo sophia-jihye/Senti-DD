@@ -1,0 +1,14 @@
+Number of headlines = 3867
+Number of polar headlines = 1575
+
+Selected tokens (107)
+['group', 'operating', 'loss', 'mn', 'profit', 'period', 'sale', 'eur', 'june', 'euro', 'percent', 'year', 'report', 'quarter', 'world', 'phone', 'manufacturer', 'china', 'time', 'net', 'company', 'maker', 'hel', 'today', 'result', 'technology', 'paper', 'pct', 'month', 'earnings', 'share', 'eps', 'turnover', 'eur0', 'medium', 'half', 'omx', 'helsinki', 'mln', 'solution', 'system', 'brewery', 'growth', 'margin', 'capital', 'efficiency', 'passenger', 'finland', 'investment', 'stock', 'day', 'september', 'market', 'liter', 'metal', 'price', 'demand', 'pulp', 'unit', 'cost', 'operation', 'oyj', 'business', 'electronics', 'contract', 'revenue', 'index', 'bn', 'order', 'software', 'tax', 'volume', 'point', 'line', 'news', 'item', 'bank', '+àland', 'interest', 'income', 'construction', 'traffic', 'capacity', 'rate', 'steel', 'production', 'number', 'feb', 'trade', 'service', 'cash', 'product', 'division', 'use', 'level', 'value', 'end', 'konecranes', 'customer', 'tonne', 'area', 'cent', 'russia', 'communication', 'plant', 'industry', 'beer']
+
+Number of proportional type headlines = 561	 inversely_proportional type headlines = 23
+
+Proportional type entities (71)
+group, profit, period, mn, sale, report, world, net, maker, operating, paper, earnings, turnover, medium, quarter, mln, solution, brewery, eur0, phone, growth, capital, efficiency, loss, passenger, investment, september, metal, pulp, percent, oyj, electronics, helsinki, order, volume, line, news, +àland, contract, income, item, time, trade, service, cash, system, eur, product, use, manufacturer, value, konecranes, customer, eps, tonne, share, end, revenue, business, communication, demand, margin, division, area, cent, interest, beer, month, june, year, bn
+Inversely proportional type entities (7)
+result, traffic, cost, company, construction, plant, day
+
+Number of positive pairs: 1497	 negative pairs: 921

@@ -1,0 +1,14 @@
+Number of headlines = 3867
+Number of polar headlines = 1578
+
+Selected tokens (101)
+['earnings', 'share', 'eps', 'profit', 'tax', 'mn', 'operating', 'period', 'agreement', 'sale', 'teleste', 'steel', 'company', 'pct', 'income', 'eur', 'finland', 'passenger', 'percent', 'year', 'news', 'feb', 'management', 'software', 'solution', 'oyj', 'hel', 'today', 'net', 'contract', 'capacity', 'bank', 'group', 'report', 'service', 'demand', 'quarter', 'growth', 'business', 'loss', 'system', 'capital', 'end', 'september', 'orion', 'mln', 'month', 'market', 'beer', 'liter', 'product', 'operation', 'production', 'tonne', 'helsinki', 'cargotec', 'trade', 'june', 'number', 'order', 'maker', 'corp', 'cost', 'margin', 'unit', 'volume', 'rate', 'metal', 'construction', 'traffic', 'technology', 'item', 'point', 'result', 'line', 'division', 'medium', 'value', 'area', 'price', 'paper', 'electronics', 'plant', 'communication', 'investment', 'food', 'euro', 'russia', 'cent', 'interest', '+àland', 'manufacturer', 'customer', 'turnover', 'revenue', 'omx', 'stock', 'half', 'industry', 'index', 'day']
+
+Number of proportional type headlines = 534	 inversely_proportional type headlines = 22
+
+Proportional type entities (60)
+share, profit, period, agreement, teleste, income, passenger, sale, news, contract, group, demand, system, capital, orion, month, tonne, cargotec, maker, margin, year, metal, technology, item, eur, product, medium, value, order, management, volume, paper, september, electronics, food, percent, investment, june, trade, +àland, end, customer, net, turnover, division, revenue, area, mln, cent, interest, business, growth, oyj, liter, beer, communication, solution, quarter, report, mn
+Inversely proportional type entities (6)
+traffic, cost, construction, day, company, plant
+
+Number of positive pairs: 1266	 negative pairs: 780
