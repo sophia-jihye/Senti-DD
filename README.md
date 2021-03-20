@@ -1,4 +1,4 @@
-# senti-dd
+# Senti-DD
 
 Python implementation of Senti-DD
 
