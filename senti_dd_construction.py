@@ -117,6 +117,11 @@ def construct_senti_dd(train_filepath, dd_filepath, senti_dd_filepath):
     log_content += '\n\nProportional type entities ({})\n{}'.format(len(proportional_words), ', '.join(proportional_words))
     log_content += '\nInversely proportional type entities ({})\n{}'.format(len(inversely_proportional_words), ', '.join(inversely_proportional_words))
 
+    # Post-processing to filter out noisy data
+    # all of the characters should be alphabet & number of characters > 2
+    dd['survive_post_processing'] = dd['entity'].apply(lambda x: x.isalpha() and len(x)>2)
+    dd = dd[dd['survive_post_processing']==True]
+    dd.drop(columns=['survive_post_processing'], inplace=True)
     dd.to_csv(dd_filepath, index=False)
     print('Created', dd_filepath)
     
