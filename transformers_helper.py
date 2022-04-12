@@ -7,6 +7,7 @@ from CustomDataset import encode_for_inference
 def load_tokenizer_and_model(model_name_or_path, num_classes=None, mode='classification'):
     if num_classes is not None: # train
         config = AutoConfig.from_pretrained(model_name_or_path, num_classes=num_classes)
+        config.num_labels = num_classes
     else: # test
         config = AutoConfig.from_pretrained(model_name_or_path)      
     
