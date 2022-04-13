@@ -1,23 +1,25 @@
 import pandas as pd
-
 import nltk
-# nltk.download('vader_lexicon')
+nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-
 # nltk.download('sentiwordnet')
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
 from nltk.corpus import sentiwordnet as swn
 from nltk import sent_tokenize, word_tokenize, pos_tag
-
 from textblob import TextBlob
-
 from nltk.stem.porter import PorterStemmer
 from nltk.stem import WordNetLemmatizer
+from afinn import Afinn
+from sentistrength import PySentiStr
 
 LM_FILEPATH = '/media/dmlab/My Passport/DATA/Lexicon/LM_Word_List/LM_Word_List.csv'
+senti_strength_jar_filepath = '/media/dmlab/My Passport/DATA/Lexicon/SentiStrength/SentiStrengthCom.jar'
+senti_strength_data_dirname = '/media/dmlab/My Passport/DATA/Lexicon/SentiStrength/SentiStrengthDataEnglishOctober2019/'
+mpqa_filepath = '/media/dmlab/My Passport/DATA/Lexicon/MPQA_Subjectivity/subjclueslen1-HLTEMNLP05.csv'
+socal_filepath = '/media/dmlab/My Passport/DATA/Lexicon/SO-CAL/adj_adv_noun_verb.csv'
+sentiment140_filepath = '/media/dmlab/My Passport/DATA/Lexicon/Sentiment140/unigrams-pmilexicon.csv'
 
-vader_analyser = SentimentIntensityAnalyzer()
 stemmer = PorterStemmer()
 lemmatizer=WordNetLemmatizer()
 lm_df = pd.read_csv(LM_FILEPATH)
@@ -61,6 +63,7 @@ def lm_polarity(text):
     elif score < 0: return 'negative'
     else: return 'neutral'
     
+vader_analyser = SentimentIntensityAnalyzer()
 def vader_polarity(text):
     score = vader_analyser.polarity_scores(text)['compound']
     if score >= 0.05: return 'positive'
@@ -126,3 +129,51 @@ def textblob_polarity(text):
     if score > 0: return 'positive'
     elif score < 0: return 'negative'
     else: return 'neutral'    
+    
+afinn = Afinn()
+def afinn_polarity(text):
+    score = afinn.score(text)
+    if score > 0: return 'positive'
+    elif score < 0: return 'negative'
+    else: return 'neutral' 
+    
+senti = PySentiStr()
+senti.setSentiStrengthPath(senti_strength_jar_filepath) 
+senti.setSentiStrengthLanguageFolderPath(senti_strength_data_dirname) 
+def sentistrength_polarity(text):
+    score = senti.getSentiment([text])[0]
+    if score > 0: return 'positive'
+    elif score < 0: return 'negative'
+    else: return 'neutral' 
+
+mpqa_df = pd.read_csv(mpqa_filepath)
+def mpqa_polarity(text):
+    tokens = word_tokenize(text)
+    pos_cnt, neg_cnt = 0, 0
+    for token in tokens:
+        if token in mpqa_df[mpqa_df['priorpolarity']=='positive'].word.values:
+            pos_cnt += 1
+        if token in mpqa_df[mpqa_df['priorpolarity']=='negative'].word.values:
+            neg_cnt += 1
+    score = pos_cnt - neg_cnt
+    if score > 0: return 'positive'
+    elif score < 0: return 'negative'
+    else: return 'neutral' 
+
+socal_df = pd.read_csv(socal_filepath)
+convert_word_to_socal_score = dict(zip(socal_df['word'], socal_df['polarity_score']))
+def socal_polarity(text):
+    tokens = word_tokenize(text)
+    score = sum([convert_word_to_socal_score.setdefault(word, 0) for word in tokens])
+    if score > 0: return 'positive'
+    elif score < 0: return 'negative'
+    else: return 'neutral' 
+
+sentiment140_df = pd.read_csv(sentiment140_filepath)
+convert_word_to_140_score = dict(zip(sentiment140_df['word'], sentiment140_df['polarity_score']))
+def sentiment140_polarity(text):
+    tokens = word_tokenize(text)
+    score = sum([convert_word_to_140_score.setdefault(word, 0) for word in tokens])
+    if score >= 0.05: return 'positive'
+    elif score <= -0.05: return 'negative'
+    else: return 'neutral'
