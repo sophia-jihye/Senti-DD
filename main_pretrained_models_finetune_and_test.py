@@ -12,7 +12,8 @@ import finetuning_classification, reports
 
 root_dir = './data' 
 model_save_dir = os.path.join(root_dir, 'temp')
-train_filepaths = sorted(glob(os.path.join(root_dir, 'FinancialPhrase*', '*', 'train.csv')))
+# train_filepaths = sorted(glob(os.path.join(root_dir, 'FinancialPhrase*', '*', 'train.csv')))   # FPB
+train_filepaths = sorted(glob(os.path.join(root_dir, 'SemEval*', '*', 'train.csv'))) # SemEval
 
 model_name_or_dirs = ['bert-base-uncased', 'roberta-base']
 
