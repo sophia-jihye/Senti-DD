@@ -1,0 +1,5 @@
+true,negative,neutral,positive,n_true
+negative,44,46,24,114
+neutral,34,365,175,574
+positive,28,57,195,280
+n_pred,106,468,394,968

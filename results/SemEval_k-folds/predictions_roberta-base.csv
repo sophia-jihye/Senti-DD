@@ -1,0 +1,961 @@
+text,true_label,predicted_label,correct
+lloyds banking group eyes return to dealmaking with mbna bid,2,2,True
+new york says barclays not cooperating in dark pool probe,0,0,True
+shell s $70 billion bg deal meets shareholder skepticism,0,0,True
+shell shells out over nigeria oil spill,0,0,True
+tesco leads leap in ftse 100; marks & spencer drops,2,0,False
+royal mail needs to deliver on modernisation plans post haste,0,0,True
+domino s pizza worker sacked after crude slur aimed at customer on order screen,0,0,True
+u s debt lures schroders as ecb depresses rates,2,0,False
+aviva suspends trading in â£1 8bn uk property fund,0,0,True
+marketsshire up 2 5 and baxalta up 6 on $32bn deal,2,2,True
+aviva fined $27 million by u k regulator over fee failings,0,0,True
+uk winners & losers: aviva and friends life lead ftse 100 gainers,2,2,True
+retail giant kingfisher reports solid start to the year,2,2,True
+spain s caixabank expects to close deal for banco bpi,2,2,True
+ab inbev to sell more sab assets as seeks eu deal approval,0,2,False
+old mutual to split up may list some businesses,2,0,False
+petrofac books further â£30m cost for shetland gas terminal delays,0,0,True
+british government stake in lloyds banking group fa,0,2,False
+u k shares extend rebound for second day as easyjet surges,2,2,True
+weir group offloads two renewables units,2,0,False
+intercontinental hotels group share price climbs on $1 5bn special dividend,2,2,True
+rbs invites pitches for broker role ahead of privatisation sources,2,2,True
+exxon beaumont cdu overhaul to be slowed by accident: sources,0,0,True
+companiesdeutsche taps ex stanchart executive for audit role,1,0,False
+industry newsstrong results at travis perkins marred by plumbing impairment,0,0,True
+sainsbury cfo rogers to replace home retail ceo walden,1,0,False
+rpt uk supermarkets braced for battle as tesco comes out fighting,2,0,False
+companiesroyal mail swerves new pricing regulations,0,0,True
+london morning briefing: hsbc and standard chartered shares rise,2,2,True
+sainsbury s asda tesco and morrisons will all cut petrol prices as oil falls,0,2,False
+ftse ends lower on weaker miners tesco outperforms,2,0,False
+barclays launches first 100 mortgages since crisis,2,2,True
+why i d buy arm holdings plc and bhp billiton plc today,2,2,True
+ftse hits three week low as financials tesco fall,0,0,True
+ftse 100 moves lower but hsbc outperforms,2,0,False
+euro zone qe helps standard life first quarter funds boost,2,2,True
+barclays says has spent $150 million on us living will,0,2,False
+shell to lay off another 2200 staff,0,0,True
+us doj antitrust unit subpoenas mylan over pricing of doxycycline,0,0,True
+jim armitage: spare no tears as glencore s bosses are paying such a small price,0,0,True
+tesco to axe 10000 jobs in simplification drive to cut costs by 30 per cent,2,0,False
+fresnillo production surges but profit hit by lower prices,2,0,False
+intercontinental hotels starwood held early deal talks ft,2,2,True
+unilever finds growth more elusive as sales meet estimates,2,0,False
+5 years after bp spill: what s changed in offshore drilling,0,0,True
+rpt update 2 former jefferies trader litvak s conviction overturned,2,0,False
+buffett s berkshire delivers 9 8 profit growth,2,2,True
+abn amro: bank that brought down rbs poised for return to the market,2,2,True
+tesco loses two more directors as garfield and tammenoms step down,0,0,True
+intertek group announces strategic update outlining its plan,2,2,True
+bp wins right to appeal some gulf spill damages claims,2,0,False
+companieshome retail trims gains but is considered in play,2,0,False
+deals help shrink glencore s mountain of debt,2,0,False
+whitbread to hike prices to offset substantial national living wage bill,0,0,True
+former barclays traders stand trial in libor case,0,0,True
+conagra names former hillshire farms ceo connolly to top post,2,2,True
+legal & general arm buys 50 pct stake in mediacityuk in manchester,2,2,True
+shire offers to buy baxalta for $30 billion,2,2,True
+britain s ftse slips from 2016 high as sky falls,0,0,True
+london stock exchange shareholders vote on merger deal under brexit cloud,0,0,True
+kingfisher takeover of mr bricolage could hit a brick wall,0,0,True
+bg group appoints new ceo one month early,2,2,True
+hsbc appoints business leaders to board,2,2,True
+astrazeneca share price: company to carve out antibiotic r&d unit into separate,2,2,True
+update 2 easyjet sees better first half on lower fuel bill,2,2,True
+tesco chief excutive dave lewis sees encouraging signs despite profits tumble,2,2,True
+press: pearson set to announce sale of financial times reuters,2,0,False
+diageo share price: group issues half year update,1,0,False
+lloyds is cutting more than 600 jobs and shutting 21 branches,0,0,True
+royal bank of scotland fortunes ebbed and flowed under 3 chiefs,1,0,False
+centrica suffers protest from shareholders over pay,0,0,True
+canadian pension fund borealis renews pursuit of severn trent : report,2,2,True
+companiesshell sells stake in showa shell sekiyu for $1 4bn,0,2,False
+easyjet attracts more passengers in june but still lags ryanair,2,0,False
+tesco says uk store closures put 2000 jobs at risk,0,0,True
+goodwin not to face scottish prosecution over rbs,2,0,False
+barclays not convinced by gains in south african stocks: chart,0,0,True
+british american tobacco drops and sues pwc over pollution scandal,0,0,True
+morning agenda: shire s deal for nps,2,2,True
+companieslse adds ex sec head schapiro to board,2,2,True
+silicon fen champion brings exacting approach to rolls royce,2,2,True
+sale of tesco s clubcard business to wpp on the verge of collapse,0,0,True
+wpp world s largest ad agency reports strong 2015 growth,2,2,True
+is trouble brewing at legal & general group plc and aviva plc,0,0,True
+uk s ftse climbs to record closing high as standard chartered surges,2,2,True
+shire sees baxalta deal closing as expected after new rules,2,2,True
+old mutual faces backlash over â£9m chief exec payout plan,0,0,True
+update 2 exchanges barclays win dismissal of us high frequency trading case,2,0,False
+irish said chasing standard chartered rbs as brexit vote nears,2,0,False
+glencore raises $2 5bn through share placing to help cut debt load,2,2,True
+lloyds will cut 640 jobs close 23 branches as part of 2014 plan,2,0,False
+bhp billiton half year profit falls beats forecasts,2,0,False
+barclays to speed up cost cuts after new mis selling hit,0,0,True
+shell ceo van beurden s remuneration fell in 2015,0,0,True
+are aviva plc direct line insurance group plc and admiral group plc set to soar,2,2,True
+verizon and at&t accused of hurting rivals,0,0,True
+hargreaves lansdown says first quarter assets hit by stock market flux,0,0,True
+update 1 oil major bp freezes pay in 2015 to cut costs,0,0,True
+stanlife leads ftse after strong earnings,2,2,True
+novartis buys remaining rights to gsk treatment in deal up to $1 billion,2,2,True
+tesco share price down as grocer faces sfo investigation outcome,0,0,True
+staley to face challenges at barclays,0,0,True
+update 1 berkshire applies to boost wells fargo stake above 10 pct,2,2,True
+update 1 uk government would oppose any takeover of bp ft,0,0,True
+tesco leads ftse higher on clubcard bid reports,2,2,True
+randgold profit hit by poor gold price but dividend still increases,0,0,True
+experian says receives class actions related to t mobile breach,0,0,True
+bp seeks to get back some gulf oil spill business payouts,2,0,False
+barclays poised to replace sir mike rake as he heads for exit,2,0,False
+fears primark growth is starting to falter,0,0,True
+aberdeen am posts h1 outflows says conditions to remain challenging,0,0,True
+tata steel working with stanchart for uk unit sale source,2,2,True
+tesco versus sainsbury: weight watcher vs bodybuilder,2,0,False
+astrazeneca profit down as sales of stalwarts fade,0,0,True
+hargreaves lansdown share price falls as costs mount although pensions,0,0,True
+london stock exchange shareholders approve merger with deutsche bã¶rse,2,2,True
+diageo sells ryder cup venue gleneagles hotel to ennismore group,2,2,True
+shell chevron await lng s return from pause mode,2,2,True
+why shell cut ties to conservative lobby group over climate change,1,0,False
+reed elsevier shares cool after profit dip,0,0,True
+press: serco set to appoint roy gardner ex centrica as chairman ft,2,2,True
+tullow oil suspends dividend amid oil price fall,0,0,True
+cost savings help robinsons maker britvic to first half profit,2,2,True
+bp sees q1 earnings slide as low oil prices take their toll,0,0,True
+unilever returns to cuba in joint venture with state,2,2,True
+uk lawmakers warn royal mail against further price hikes,0,0,True
+the sustainability of royal dutch shell s dividend,1,2,False
+industry newsg4s makes positive start to year no new impairments,2,2,True
+astrazeneca acquires zs pharma in $2 7 billion deal,2,2,True
+companiestravis perkins lifts dividend earnings rise 15,2,2,True
+astrazeneca wins fda approval for key new lung cancer pill,2,2,True
+industry newshammerson joint venture buys dublin loan portfolio,2,2,True
+barclays says not been offered deferred prosecution deal by sfo,2,0,False
+warren buffett s berkshire hathaway quarterly profit jumps almost one third,2,2,True
+eu regulator backs approval for gsk injectable asthma drug,2,2,True
+companieskingfisher bid for mr bricolage runs into trouble,0,0,True
+centrica extends gas deals with gazprom statoil,2,2,True
+pearson lags as uk s ftse slips off record high,0,0,True
+rbs pays $1 7 billion to scrap u k treasury s dividend rights,2,0,False
+sse share price: peterhead station to supply voltage support to national grid,2,2,True
+bp reports $583 million loss in first quarter,0,0,True
+barclays ceo poaches risk head from jp morgan,0,0,True
+glaxosmithkline heart drug flops in study shingles vaccine on track,0,0,True
+rbs bosses ordered to go out and meet small firms,2,0,False
+astrazeneca sells rights to anaesthetics to south africa s aspen,2,2,True
+update 1 astrazeneca sells rare cancer drug to sanofi for up to $300 mln,2,2,True
+glaxosmithkline beats profit forecasts despite advair hit lower margins,2,0,False
+news feedftse 100 movers: ashtead jumps on strong interims; glencore bp in,2,2,True
+ab inbev offers to sell some sabmiller brands,2,2,True
+shell to buy bg group in $69 7 billion takeover,2,2,True
+ceo of berkshire s gen re to retire; jain s role grows,0,0,True
+wolseley share price: group updates on quarterly performance,1,2,False
+shell targets gains from brazil to lng with takeover of bg group,2,2,True
+prudential financial quarterly profit rises 64 pct,2,2,True
+barclays ceo staley says brexit slump caused by profit fears,0,0,True
+bp joins forces with det norske in norway,2,2,True
+ab inbev s latest bid said unlikely to win sabmiller s approval,2,0,False
+four ex barclays bankers sentenced for roles in libor rate rigging scandal,0,0,True
+should you follow berkshire hathaway into apple stock,2,2,True
+reluctant shareholder george osborne loses patience with rbs,0,0,True
+bg group still happy with shell s $70 billion offer,2,2,True
+european shares plunge roiled by bhp and oil; hopes turn to ecb,0,0,True
+centrica prepared for takeover approach chairman,2,2,True
+hammerson jv partner secure ownership of ireland s dundrum quick facts,2,2,True
+bp s fine for 2010 oil spill capped at $13 7 billion,0,0,True
+google fiber to buy webpass for big city internet service,2,2,True
+us judge rules that bp spill smaller than feared,2,0,False
+kraft cadbury s and britvic in total recall: how pulling a product affects profit,0,0,True
+britain s ftse advances as royal mail rises,2,2,True
+prudential shares halted in hong kong pending announcement,0,0,True
+refile aviva investors to move 34 bln euros in assets from axa fund arm,0,2,False
+ice said to start lining up financing for lse bidding war,2,2,True
+standard chartered shares jump most since 12 after upgrades,2,2,True
+buzz bg group: outperforms sector after record output,2,2,True
+glencore sees tripoli based noc as sole legal seller of libyan oil,2,2,True
+update 1 bhp billiton s credit ratings fragile in fy16 agencies warn,0,0,True
+sanofi poaches astrazeneca scientist as new research head,2,0,False
+companiesaberdeen asset mgt reports 10th consecutive quarterly outflows,0,0,True
+insurer old mutual picks standard bank s hemphill as new ceo,2,2,True
+government to sell off remaining 14 stake in royal mail,0,0,True
+british taxpayers stake in lloyds falls below 22 percent,0,0,True
+barclays said to cut 150 at investment bank as mccormick departs,0,0,True
+rbs breaks with past by tearing investment bank apart,0,0,True
+australian mining slowdown hits aggreko,0,0,True
+dyson wants to create a hair dryer revolution,2,2,True
+nine banks including barclays citi agree to pay $2 billion to settle forex,0,0,True
+questor share tip: mondi shares jump 10pc on strong start,2,2,True
+merged lse and deutsche bã¶rse would be led by germany s kengeter,2,2,True
+bp shares tumble after $2 2bn fourth quarter loss,0,0,True
+rbs becomes a shadow of its former self,0,0,True
+tesco rebounds as buyers sense a bargain,2,2,True
+glencore swings to loss will sell more assets,0,0,True
+associated british foods profit hit by strong sterling tough sugar business,0,0,True
+ab inbev to sell peroni and grolsch,2,2,True
+ceos of bpm ubi meet italy econ minister as m&a talk heats up,2,2,True
+teva: fda approves generic version of astrazeneca heartburn drug,2,2,True
+companiescentrica shares drop 7 amid capital raise,0,0,True
+news feedftse 100 movers: standard chartered lifted while astrazeneca sinks,2,2,True
+struggling morrisons pays out â£3m to sacked boss dalton philips â€ with more to,0,0,True
+glencore sells agri unit stake for $2 5 billion to canadian pension fund,2,2,True
+former schroders trader sentenced to 2 years in prison,0,0,True
+royal dutch shell posts rise in earnings despite lower oil prices,2,2,True
+tesco made a bit of a crucial error in this promotion for ramadan,0,0,True
+meggitt agrees to buy us aerospace component firm for $340 million,2,2,True
+bhp residents brace as cyclone stan nears australian coast,0,0,True
+fda approves shire s vyvanse for binge eating disorder,2,0,False
+market report: eight day rally ends for ftse 100 and standard chartered,2,2,True
+aviva weighs cash handout after beating profit forecast,2,2,True
+prudential knocked after investors withdraw â£3 9bn from m&g,0,0,True
+glencore slashes 2015 capex budget as annual profits slip 2,0,0,True
+standard life stands tall amid pension reform,2,2,True
+sotheby s chairman takes his final sale,0,2,False
+the uk government s call to sell shares in royal bank of scotland group plc,0,0,True
+smith & nephew recalls hip replacement components,0,0,True
+diageo receives reports from united spirits on financial irregularities involving,0,0,True
+cftc fines barclays $560000 for inaccurate swaps position reports,0,0,True
+tesco share price closes higher as two more directors leave grocer,2,0,False
+friday papers: sir philip green sells bhs for â£1,2,2,True
+wolseley profit up 18 warns on revenue growth,2,2,True
+astrazeneca wins us approval for longer use of blood thinner,2,2,True
+anheuser busch inbev increases offer for rival sabmiller,2,2,True
+uk s morrisons in talks to sell convenience stores source,0,2,False
+greene king s third quarter sales boosted by festive season,2,2,True
+kingfisher set to open another 200 screwfix stores,2,2,True
+bhp billiton share price: brazil to sue samarco for â£3 5bn,0,0,True
+whitbread boss andy harrison defends sales fall as just a blip,0,2,False
+prudential capital ratio beats forecasts confirms uk head,2,2,True
+credit checker experian reports fall in full year profit,0,0,True
+britain s ftse steadies below record high bhp gains,2,2,True
+passengers rise at easyjet and aer lingus,2,2,True
+barclays poaches new chief operating officer paul compton from jp morgan chase,2,0,False
+bhp billiton drags ftse lower after slashing dividend,0,0,True
+tesco says recovery on track asks investors to be patient,2,2,True
+national grid profit up 15 ; gas sale on track,2,2,True
+falling oil prices hurt hunting weir group,0,0,True
+standard life shuts â£2 9bn property fund after investors rush to withdraw money post brexit,0,0,True
+european stocks hover near 3 week low dialog and bhp slump,0,0,True
+companiesrbs pulls a surprise: a 27 jump in profits,2,2,True
+berkshire applies to boost wells fargo stake above 10 percent,2,2,True
+former aviva investors analyst mothahir miah banned and fined â£139000 by fca,0,0,True
+sir ken morrison has taken a â£6m stake in rival sainsbury s,2,2,True
+rio tinto reaffirms goal for iron ore output,2,2,True
+barclays picks ex jpmorgan exec staley as new ceo to start dec 1,1,2,False
+unilever head s resignation sparks spinoff talk,2,0,False
+tesco share price dips as blinkbox books closes ending supermarket s digital,0,0,True
+ruling sets lower limit on potential fine for bp,0,0,True
+barclays names mike bagguley as chief operating officer of investment bank,1,2,False
+companiestesco sends supermarket shares to top of ftse,2,2,True
+is it worth investing in tesco plc and prudential plc now,2,2,True
+commentopening quote: pay day moans; profits slump for lloyds; mars mission,0,0,True
+wpp s sir martin sorrell is highest paid ftse 100 chief executive,2,2,True
+united utilities full year underlying operating profit falls 9 percent,0,0,True
+glencore chief blames rivals overproduction for share price fall,0,0,True
+rbs chairman admits surprise at size of regulatory penalties,0,0,True
+can standard chartered plc bp plc & burberry group plc keep charging,1,2,False
+standard chartered faces fresh claims of iran sanctions violations,0,0,True
+marketsbp promotes upstream boss to deputy ceo,2,2,True
+france raises concerns over proposed lse deutsche boerse deal,0,0,True
+refile bp agrees uk gas pipeline stake sale to infrastructur,2,2,True
+astrazeneca sells us gout drug rights to ironwood for up to $265 million,2,2,True
+update 3 barclays sells italian branches to mediobanca at a loss,2,0,False
+fitch: citi s 1q 15 reports much improved results,2,2,True
+shell plans to shed 2800 jobs after buying bg group,0,0,True
+bg group ships first lng from queensland curtis,2,2,True
+uk serious fraud office seeks retrial of two former barclays libor traders,0,0,True
+astrazeneca in talks to buy cancer drug developer acerta pharma,2,2,True
+stanchart capital raising would be major surprise investor aberdeen,2,0,False
+water utility severn trent ups savings forecast fy profit falls,2,0,False
+can bp restore its lost luster,0,2,False
+sharm el sheikh travel disruption: british airways easyjet thomson and,0,0,True
+pfizer to cut 120 jobs with closure of cambridge r&d centre,0,0,True
+rio approves $5 3 billion oyu tolgoi copper mine expansion,2,2,True
+update 1 bp reports worst annual loss in at least 20 years cuts more jobs,0,0,True
+standard chartered considering move from uk,2,2,True
+lloyds to cut 945 jobs as part of three year restructuring strategy,0,0,True
+glaxosmithkline set to complete $20 billion novartis asset swap next week,2,2,True
+trading expertbroker recommendationsubs ups rbs to buy as it re initiates coverage on uk banks,2,2,True
+barclays considers acquisition to help split off retail arm,2,2,True
+ab inbev to sell sabmiller stake in china s snow beer,2,2,True
+barclays said to shrink bonus pool to less than 2 billion pounds,2,0,False
+doubts grow over glaxosmithkline s $6 bln capital return plan,0,0,True
+standard life share price: group gets approval to hike stake in india jv,2,2,True
+buffett talks wind energy coca cola at berkshire meeting,2,2,True
+italy probes shell s role in purchase of nigerian oil block,0,0,True
+shell and bg shareholders to vote on deal at end of january,1,2,False
+ab inbev offers sabmiller $3 billion breakup fee,2,0,False
+the latest: buffett says cuts will pay off at kraft heinz,2,2,True
+tesco asda sales fall as march of the discounters continues kantar,0,0,True
+sainsbury s pressed to raise bid for home retail group,0,2,False
+sales boost for new morrisons chief david potts as tesco turnaround stalls,0,2,False
+united utilities fy profit up 3 5 ; to boost capex,2,2,True
+tesco share price jumps as q3 sales top estimates,2,2,True
+companiesglencore s annual results beat forecasts,2,2,True
+tesco bans sugary drinks in â€œchildhood obesity driveâ€퀀,2,0,False
+whitbread profit up as sales continue to rise looking for new ceo,2,2,True
+london open: taylor wimpey and ashtead drive markets higher barclays falls,2,2,True
+ex barclays trader johnson pleaded guilty to libor fixing,0,0,True
+auto trader share price surges as company floats on lse,2,2,True
+glencore slumps 25 pct as debt fears grow,0,0,True
+imi posts drop in first quarter organic revenue; warns on full year,0,0,True
+johnson matthey sells research chemicals unit to thermo scientific,2,2,True
+fda panel backs safety updates for astrazeneca takeda drugs,0,2,False
+tesco mobile is offering you cash back in exchange for looking at ads,2,2,True
+update: easyjet passenger numbers aer lingus traffic up in february,2,2,True
+royal mail johnson matthey lead ftse lower,0,0,True
+bae systems lines up oil exec woodburn as next ceo source,2,2,True
+aberdeen asset management gains foothold in china,2,2,True
+glaxosmithkline share price slips as fda okays asthma therapy only for adults,0,0,True
+shell s profits hit by further slide in oil prices,0,0,True
+investors remain skeptical about shell bg deal,0,0,True
+bbcn bancorp to buy wilshire bancorp in $1 bln deal,2,2,True
+britain s ftse lifted by solid kingfisher,2,2,True
+barclays credit suisse strike record deals with sec ny over dark pools,0,2,False
+astrazeneca bags another cancer drug deal this time with inovio,2,2,True
+berkshire hathaway s 4q profit declines 17 percent,0,0,True
+update 1 lloyds to cut 945 jobs as part of 3 year restructuring plan,0,0,True
+diageo sells wine businesses for 320m pounds,2,2,True
+companies raise less money on london stock exchange in 2015,0,0,True
+bt group s third quarter revenues rise as restructure unveiled,2,2,True
+bp agrees to $18 7b penalty for oil spill; the tricky science behind,0,0,True
+standard chartered shifts emerging markets strategy after losses,0,0,True
+eli lilly & co lly has broken out to a new high on astrazeneca collaboration,2,2,True
+crown castle buys tower development corp for $461 million,2,2,True
+britain s ftse bounces back mondi and barratt lead,2,2,True
+mongolia and rio tinto agree $5bn oyu tolgoi mine expansion,2,2,True
+companiestesco sheds harris & hoole coffee shops,2,0,False
+bae systems cuts earnings target for 2015 and 370 jobs,0,0,True
+industry newswhitbread sales sink in fourth quarter on costa slowdown,0,0,True
+smith & nephew 2015 trading profit beats expectations,2,2,True
+shire rises as dry eye treatment sails through trial,2,2,True
+update 1 shire steps up drive to get baxalta talking after $30 bln bid,2,2,True
+companiesroyal mail stake sale delivers â£750m for taxpayer,0,2,False
+glencore to refinance its short term debt early shares rise,2,2,True
+indy future in doubt as johnston press lines up deal for i,2,0,False
+royal mail and workers union agree pay deal,2,2,True
+amazon s grocery deal with morrisons is only the beginning,2,2,True
+tesco sale is asia s biggest private equity deal,2,2,True
+ftse led lower by m&s glaxosmithkline,0,0,True
+dixons carphone profit beats forecast in first year since merger,2,2,True
+astrazeneca suffers setback after drug fails to treat eye cancer,0,0,True
+diageo and carlsberg hit as russians suffer from oil price collapse and rouble,0,0,True
+london midday briefing: kingfisher s french expansion hits the rocks,0,0,True
+ftse falls to 3 month low on greek debt concerns easyjet skids,0,0,True
+germanwings disaster will not affect image of budget air travel easyjet,2,0,False
+buffett s company reports 37 percent drop in 2q earnings,0,0,True
+companiescompass serves up half year profit rise,2,2,True
+ab inbev approaches sabmiller to explore $250bn tie up,2,2,True
+barclays plc & lloyds banking group plc are the 2 banks i d buy today,2,2,True
+tesco said to discuss central and eastern european unit sale,2,2,True
+exclusive bp china s cnpc to unveil oil alliance sources,2,2,True
+update 3 barclays fined for lax crime checks in deal of century,0,0,True
+ao world shares tumble on profit warning,0,0,True
+easyjet targets business travellers with new perks,2,2,True
+glencore blames rivals for creating metals glut,0,0,True
+sainsbury s share price: grocer launches click and collect,2,2,True
+uk government sells more lloyds shares cuts stake to below 12 percent,0,0,True
+update 2 pricey beers lift sabmiller s quarterly underlying sales,2,2,True
+dave lewis admits long road ahead for tesco recovery,0,0,True
+tesco share price: korean currency slide may hit homeplus sale plans,0,0,True
+antofagasta sees lower cash costs in 2015 quick facts,2,2,True
+u k stocks little changed near record as barclays shell fall,0,0,True
+corrected shire to buy dyax for about $5 9 bln,2,2,True
+easyjet to pass on lower fuel prices to customers,2,2,True
+uk s ftse hits new record highs as crh climbs,2,2,True
+ftse edges up as investors cheer kingfisher results,2,2,True
+eu regulators clear $100 billion plus ab inbev sabmiller deal,2,2,True
+brewer ab inbev seeks $275 bln tie up with sabmiller,2,2,True
+british american tobacco first half sales hurt by currency moves,0,0,True
+pearson in talks to sell its stake in the economist group,2,0,False
+valeant astrazeneca strike psoriasis drug deal,2,2,True
+friends life lifts profits 38 and hikes divi ahead of proposed aviva takeover,2,2,True
+refile hikma and barclays help britain s ftse to climb higher,2,2,True
+glencore shares hit 3 month high after refinancing key credit line,2,2,True
+city spirits sink after diageo comes up short with sales slide,0,0,True
+lloyds returns â£13bn to uk taxpayer,0,2,False
+rsa insurance hires towergate s egan as chief financial officer,2,2,True
+companiessanofi poaches immunology expert from astrazeneca,0,2,False
+royal dutch shell plc: shell updates on alaska exploration,1,2,False
+how kraft heinz merger came together in speedy 10 weeks,2,2,True
+update 1 astrazeneca potassium drug delayed by manufacturing snag,0,0,True
+exclusive britain targets sale of half its rbs stake in two years: sources,0,2,False
+miners meltdown as bhp to rio tinto sink in commodities rout,0,0,True
+companies thetrainline com announces arrival of london ipo,2,2,True
+glencore tells investors it is on track to reduce debt: barclays,2,2,True
+persimmon sees post election pick up,2,2,True
+shell to go ahead with petrochemical plant in pennsylvania,2,2,True
+bae systems banks on us defence spending to fix sales slide,0,0,True
+morrisons finance chief to fill gap as ceo leaves early,0,0,True
+bhp billiton to lower copper production costs,2,2,True
+aberdeen to raise 100 mln stg to seed new funds,2,2,True
+travis perkins hikes dividend 20 as profit and revenue rise,2,2,True
+payout from bp oil spill settlement tops $5 billion,0,0,True
+hargreaves landown slides on trading update,0,0,True
+itv share price: group mulls takeover of canada s entertainment one,2,2,True
+companiesex city watchdog turner joins prudential board,1,2,False
+rbs share price: group plans to slash 600 jobs,0,0,True
+astrazeneca digs into precision medicine with lung heart deals,2,2,True
+hsbc hit by fresh details of tax evasion claims,0,0,True
+royal mail hands chief executive moya greene a 13 rise in her pay package,2,2,True
+tullow oil eyes lower earnings as output falls,0,0,True
+fca set to fine lloyds record â£100m over ppi,0,2,False
+britain s ftse rises led up by glencore surge,2,2,True
+glencore sells agriculture stake for $2 5bn,2,2,True
+report: financial times up for sale,0,0,True
+morrisons and debenhams surprise city with christmas bounce back,2,2,True
+barclays hit with record fine as six banks settle forex scandal,0,0,True
+no pay hikes this year at rio tinto as mining slump bites,0,0,True
+rio tinto ceo sam walsh rejects fears over china growth demand,2,0,False
+johnson matthey revs up on clean air drive,2,2,True
+berkshire shareholders pepper warren buffett with some hard questions,0,0,True
+berkshire bought apple stake at $99 49 a share filing shows,2,2,True
+uk government cuts stake in lloyds to below 11 percent,0,0,True
+eurozone bank lending continues to recover slowly barclays says,2,2,True
+update 3 buffett s berkshire raises oil bet with kinder morgan stake,2,2,True
+reaching new depths: glencore s $5bn loss,0,0,True
+closely watched astrazeneca cancer drug fails in mesothelioma,0,0,True
+shire share price: group releases full year results,2,2,True
+top news: barclays profit depressed by foreign exchange provisions,0,0,True
+osborne extends lloyds sell off plan,0,0,True
+meggitt share price tumbles as profit falls in challenging year,0,0,True
+industry newspetrofac secures $250m north sea contract,2,2,True
+bp asks for lower fine in penalty phase of gulf spill trial,0,0,True
+bpi says caixabank isabel dos santos reach agreement over angola exposure,2,2,True
+update 6 royal dutch shell pulls plug on arctic exploration,0,0,True
+britain s ftse buoyed by admiral building sector gains,2,2,True
+after barclays and bank of america citigroup has blockchain in sight,2,2,True
+intertek hit by pound strength oil & gas slowdown; still ups dividend,0,0,True
+tesco to close remaining homeplus stores in uk,0,0,True
+news feedschroders books solid earnings growth several board changes,2,2,True
+astrazeneca s medimmune inks licensing deal with omnis pharmaceuticals,2,2,True
+fca bans former rbs libor submitter,0,0,True
+press: hsbc chairman hints bank may retain uk domicile tel,2,2,True
+national grid s pretax profit rises 15 percent,2,2,True
+bp set to cut hundreds of jobs at north sea operations,0,0,True
+fda approves astrazeneca drug for advanced lung cancer,2,2,True
+tesco to pay â£8m to settle class action lawsuit after accounting scandal,0,0,True
+despite sales growth uk s tesco cautions recovery to be bumpy,0,0,True
+amazon to attack uk grocery market with morrisons deal,2,2,True
+itv to pursue takeover of canada s entertainment one: bloomberg,2,2,True
+companiespound to boost abf for now but mixed impact ahead,2,2,True
+uk s osborne may sell state owned rbs shares at a loss paper,0,0,True
+analyst views: astrazeneca shares have seen recent volatility; what will 2015,0,0,True
+ihg agrees $938 sale of intercontinental hong kong,2,2,True
+caixabank dos santos agree on plan for bpi angola exposure,0,2,False
+meggitt acquires cobham advanced composites unit for usd200 million,2,2,True
+bp to pay investors $175m over gulf spill claims,0,0,True
+easyjet traffic hit by air traffic controller strikes and terrorism,0,0,True
+press: uk government would oppose any bp takeover ft,0,0,True
+fastjet slams easyjet founder stelios for going public is taking legal advice over letter about contractual,0,0,True
+glencore fight back over debt fears lifts shares,2,0,False
+associated british foods helps ftse to rebound,2,2,True
+greenpeace protest of bp forces british museum to close,0,0,True
+novo nordisk and astrazeneca seek tonic from key drug trials,2,2,True
+beach holiday demand helps lift clouds for easyjet,2,2,True
+wolseley says nicholls won t join as finance chief,0,0,True
+sophos aims to raise $100m in london ipo,2,2,True
+tushar morzaria is bookies favourite to be new barclays chief executive,1,2,False
+morrisons share price: founder s son to assist ceo with turnaround,2,2,True
+update: peter long to be chairman of both royal mail and tui ag,1,2,False
+press: us high frequency lawsuit against barclays dismissed reuters,2,0,False
+astrazeneca s patent on asthma drug invalidated by us court,0,0,True
+barclays settles with us investors over libor manipulation,2,0,False
+ackman in email says supports valeant ceo pearson,2,2,True
+ge to sell majority stake in bank bph s core bank to alior bank,2,2,True
+update 1 gsk linked investigator freed early from china jail source,2,2,True
+sports direct shares tumble as founder ashley sells shares,0,0,True
+shropshire and mid wales trains to be hit again in new strike by arriva drivers,0,0,True
+gkn to buy fokker technologies for 706 mln euros,2,2,True
+astrazeneca s $727 million play to do away with chemotherapy,2,2,True
+unilever continues to battle soft demand,0,0,True
+hsbc preparing job cuts that may target 20000 workers sky says,0,0,True
+trlpc crh backs lafarge holcim asset buy with 6 5 bln euro bridge loan,2,2,True
+moves ex shadow minister mcclymont joins aberdeen asset management,2,2,True
+centrica share price: british gas under fire despite 5 price cut,0,0,True
+update 5 sabmiller rejects ab inbev s $104 bln takeover approach,0,2,False
+lloyds banking group to cut 640 jobs and close 23 branches,2,0,False
+marketsproperty stocks under pressure after standard life fund move,0,0,True
+bloomberg buys barclays benchmarking business,2,2,True
+broker tips: rbs croda sage,2,2,True
+london stock exchange group s quarterly revenue rises 12 percent,2,2,True
+update 1 glencore flags sale of some australia chile assets,2,2,True
+lloyds bank is said to face potential fine over handling of insurance complaints,0,0,True
+royal bank of scotland becomes facebook customer,2,2,True
+meggitt plc crashes 20 on profit warning: is it now a buy,0,0,True
+bhp billiton posts big loss slashes dividend,0,0,True
+companiessmith & nephew flops 6 8 to foot of ftse 100,0,2,False
+rio tinto swings to loss drops dividend policy,0,0,True
+philip morris bat sue over law taking branding off packs,0,0,True
+sse to shut coal fired plant amid shift to gas renewable energy,2,0,False
+bhp s iron ore outlook holds little cheer for small miners,0,0,True
+update 3 stifel to buy former lehman brokerage from barclays,2,2,True
+severn trent profit offsets interest rate swap losses,2,0,False
+sunday papers: shire told to raise its offer by baxalta investors,2,2,True
+barclays raises 603 million pounds from african business share sale,2,2,True
+activist fund tci backs german takeover of london stock exchange,2,2,True
+diageo shares surge on report of possible takeover by lemann,2,2,True
+industry newswolseley confident in reslilience amid mixed markets,2,2,True
+can christmas save sainsbury s plc and tesco plc,0,2,False
+hsbc standard chartered lead asia bank rout as u k votes out,0,0,True
+south africa approves sabmiller coke bottling deal with conditions,2,2,True
+diageo offloads major wine interests,0,0,True
+glaxosmithkline hails progress with lung disease treatment,2,2,True
+update 2 ab inbev launches sab bid to sell millercoors stake,0,2,False
+insight britain s bank tax jump threatens to push hsbc stanchart to new home,0,0,True
+astrazeneca explores potential deal with acerta for cancer drug,2,2,True
+norway s sovereign wealth fund says backed shell ceo s pay,2,2,True
+companiesuk government lines up â£2bn lloyds retail share sale,0,2,False
+britain s ftse led lower by itv william hill,0,0,True
+tesco sales deteriorate ahead of crucial christmas period,0,0,True
+barclays bonds rise as lender cuts dividends to shore up capital,2,0,False
+astrazeneca share price: acerta deal pays off with orphan drug status,2,2,True
+tsb boss: current account switching must be simpler,0,2,False
+u k stocks resume gains to rally to record; crh tullow climb,2,2,True
+intertek profit up 16 1 ; expects to meet forecast,2,2,True
+bae systems s sales boosted by european typhoon and currencies,2,0,False
+bunzl backs 2015 view buys more businesses,2,2,True
+blueprint receives fda nod to proceed with clinical trials for 2 drug,2,2,True
+companiesunilever sales lifted by ice cream in soft economy,2,2,True
+do it for me trend underpins uk sales growth at kingfisher,2,2,True
+shire says internal synergy goals from baxalta deal higher,2,2,True
+update 1 nomura rbs must pay $806 mln in mortgage bond case us judge,0,0,True
+wpp boosts sales despite cautious clients,2,2,True
+drugmaker shire to buy baxalta for $32 billion after 6 month pursuit,2,2,True
+talktalk hires bae systems to investigate cyber attack,2,0,False
+lse group names former sec head schapiro non executive director,2,2,True
+gsk hopes big clinical trial can breath new life into lung drug,2,2,True
+cuadrilla files to delay application to frack in lancashire,0,0,True
+update 3 ex barclays director accused by us of illegal tips to plumber,0,0,True
+clydesdale bank hit with record ppi fine for unacceptable staff lies,0,0,True
+dixons carphone says cyber attack may have exposed customers data,0,0,True
+update 1 shire takes q2 earnings pain for long term gain,0,2,False
+easyjet dismisses lufthansa low cost plan in contest for germany,0,2,False
+commentopening quote: tesco; premier foods jilted; fca on ipos,1,2,False
+aspen to buy anaesthetics from astrazeneca for $520 million,2,2,True
+weir leads ftse lower after oil price profits warning,0,0,True
+update 5 barclays chairman mcfarlane axes ceo to speed up strategic change,0,2,False
+astrazeneca : fda panel reviews savor study results for onglyza,2,2,True
+arm royalties accelerate as smartphone market regains strength,2,2,True
+bunzl delivers small profit increase for 2014,2,2,True
+companiesdiageo stays neutral on india boardroom turmoil,1,0,False
+sainsbury s says to outperform rivals in tough market,2,2,True
+what it takes for royal dutch shell to break even,1,2,False
+here s my 10 point plan to make tesco great again,2,2,True
+glencore 2014 profit in line takes $1 1 billion charge on commodity prices,2,0,False
+johnson matthey profit lifted by metals unit sale,2,2,True
+warren buffett s berkshire adds to favorites ibm wells fargo,2,2,True
+intercontinental hotels denies exploring sale or merger,1,2,False
+rio tinto announces long delayed expansion of mongolia mine,2,0,False
+uk government cuts stake in lloyds to below 11 pct,0,0,True
+morrisons faces festive sales test,0,0,True
+rbs lloyds most exposed to commercial property jpmorgan says,0,0,True
+why i would put j sainsbury plc in my trolley before wm morrison supermarkets,0,2,False
+barclays bad bank chief to step down,0,0,True
+aviva shuts friends life head office in rapid integration move,0,0,True
+shares in easyjet fall to three year low after brexit profit warning,0,0,True
+gsk aims to file up to 20 new drugs for approval by 2020,2,2,True
+itv share price jumps on report of comcast s nbcuniversal bidding to takeover,2,2,True
+lawmakers worry ab inbev beer deal will hurt craft brewers,0,0,True
+royal mail share price: postal service issues trading update,0,0,True
+citigroup to sell onemain to springleaf for $4 25 billion,2,2,True
+protesters gather in seattle to block access to shell oil rig,0,0,True
+clydesdale bank h1 profits weighed down by ppi charge,0,0,True
+barclays reports 8 fall in annual profits,0,0,True
+lse gets hong kong regulatory nod to hk firms to become lse members,2,2,True
+admiral and schroders lift ftse with profits surge,2,2,True
+gsk joins china trade push as uk trumpets healthcare deals,2,2,True
+tesco to pay $12 million to settle us lawsuit,0,0,True
+london stock exchange seals â£22 billion merger with germany s deutsche bã¶rse,2,2,True
+bunzl blames weakness in united states for first half revenue slowdown,0,0,True
+stars aligned for ab inbev s megabrew merger plan,2,2,True
+barclays fined for anti money laundering failings,0,0,True
+glencore cuts 2015 budget plans to divest from lonmin,0,0,True
+tesco says recovery plan working after profit collapse,2,0,False
+tesco uk personnel director quits supermarket,0,0,True
+nps prospects dependent on drug approval,1,2,False
+analysis copper market may get a 2003 style supply shock from glencore closures,0,0,True
+glaxo sees hope for respiratory drugs as earnings beat estimates,2,2,True
+genel shares plunge after tony hayward s oil explorer cuts crude reserves at core field,0,0,True
+stanchart may see white knight takeover on painful recovery clsa,0,2,False
+bp ends 27 year sponsorship of tate as falling oil price takes toll,0,0,True
+randgold resources third quarter profit slips despite record production,0,0,True
+aviva friends life top forecasts ahead of 5 6 billion pound merger,2,2,True
+companies severn trent expects costs hit from inflation,0,0,True
+uk christmas power demand to be lowest in 16 years â€ national grid,0,0,True
+berkshire discloses unit s ties to iran opens probe,0,0,True
+new bg group ceo helge lund starts earlier than expected,2,0,False
+lse deutsche boerse merger would signal end to exchange mega deals,2,0,False
+aviva promises higher dividends to boost flagging share price,2,2,True
+fda approves nps drug in move validating shire takeover deal,2,2,True
+priceline s stock jumps to new high for the year after barclays upgrade,2,2,True
+tesco sales recover as focus returns to core business,2,2,True
+companiesphilips transfers $900m of pension obligations,2,0,False
+investor woodford calls for outsider to head glaxosmithkline,2,0,False
+british american tobacco says would fight uk plain packaging law,0,0,True
+balfour beatty plc set to reinstate dividend and rival national grid plc and centrica plc once more,2,2,True
+old mutual first quarter sales up 18 buoyed by emerging markets,2,2,True
+standard chartered not raising capital yet as dividend cut,0,0,True
+astrazeneca diabetes drug combination faces delay after fda rebuff,0,0,True
+ex barclays traders sentenced to up to six years jail in libor case,0,0,True
+astrazeneca chases acerta to secure next cancer drug winner,2,2,True
+aberdeen s shares slide as net outflows accelerate,0,0,True
+update 1 eu regulator backs approval for gsk injectable asthma drug,2,2,True
+royal mail share price edges lower as group raises stamp price,0,0,True
+shire to buy nps for $5 2 billion to boost rare disease drugs,2,2,True
+the coca cola company and coca cola femsa to acquire ades soy based beverage business from unilever,2,2,True
+wolseley helps lift ftse from losses,2,2,True
+sports direct boss mike ashley summoned to westminster for questioning over the treatment of workers,0,0,True
+intercontinental hotels first quarter global room revenue lags estimates,0,0,True
+update 1 pearson expects to grow this year after solid end to 2014,2,2,True
+companiescar insurer hastings group driving â£180m ipo,2,0,False
+valeant said to name new ceo with pearson still hospitalized,2,0,False
+whitbread eyes savings price rises to offset wage rises,2,2,True
+shell fined by scottish court for 2011 north sea oil spill,0,0,True
+ftse ends higher; 3i group leads after strong earnings,2,2,True
+tesco share price: brand guarantee comes under fire,0,0,True
+severn trent profit up as customer complaints fall,2,2,True
+barclays in $13 75 million us settlement over mutual funds,0,0,True
+ftse steadies around 2 month low diageo shares surge,2,2,True
+wpp q1 revenue rises over 8 quick facts,2,2,True
+morrisons share price: group trading director departs as management cull,0,0,True
+aviva m&g suspend property funds as investors panic,0,0,True
+tesco s boss knows which side his bread is buttered,2,2,True
+rbs warns of higher misconduct charges obstacles ahead,0,0,True
+shire in talks with baxalta shareholders,2,2,True
+eu drops shell bp statoil from ethanol benchmark investigation,2,0,False
+morrisons escapes ftse relegation,2,0,False
+brazil vale says will appeal ruling to block assets for dam burst,0,0,True
+persimmon revenues lifted 12 by post election confidence,2,2,True
+jc penney cuts pension plan obligation,2,0,False
+landlord hammerson s nav rises on increased leasing activity,2,2,True
+lloyds wins right to buy bonds back early to save 1 billion pounds,2,2,True
+standard chartered s shares plunge 7 after fitch downgrade,0,0,True
+lloyds banking group s share price lifts amid reports bank is poised to axe hundreds of uk jobs,2,0,False
+land securities warns of rent rises,0,0,True
+worldpay readies for â£6bn london float,2,2,True
+bp cuts capex for third time this year to deal with weak oil,0,0,True
+ftse rallies off three month low boosted by stanchart sainsbury,2,2,True
+lse deutsche bã¶rse dealmakers wrong to ignore brexit risk,0,0,True
+companiescoutts raids jpmorgan chase for new ceo,0,2,False
+glencore agrees to sell minority stake in agriculture business,2,0,False
+update 1 rio tinto to sell aluminium assets in $1 bln deal paper,2,0,False
+valeant names interim leader as ceo remains hospitalized,1,0,False
+global markets stocks gain on royal dutch shell bid oil slumps,2,2,True
+rbs and barclays shares temporarily suspended amid heavily losses,0,0,True
+brief aviva aims to increase dividend pay out ratio to 50 pct in 2017,2,0,False
+british american tobacco accused of bribing senior politicians to sabotage,0,0,True
+primark racks up a happy christmas after strong sales,2,2,True
+legal & general share price: finance chief to step down,0,0,True
+us seeks huawei records on dealings with sanctioned nations,0,0,True
+bp pay boss feels the heat from revolt over dudley s â£14 million,0,0,True
+companiesnational grid lines up sale of gas business,2,0,False
+standard chartered rbs escape capital raising in stress test,2,0,False
+companiesastrazeneca wins nod for blockbuster hopeful,2,2,True
+bp signs $12 billion energy deal in egypt,2,2,True
+companiesdiageo moves cfo to lead north american business,1,2,False
+new morrisons duo get former boss s support to diffuse investor tension,2,2,True
+rolls royce to ensure compliance after petrobras bribery report,0,0,True
+aldi and lidl expansion plans speed ahead as tesco sainsbury s morrisons,2,2,True
+persimmon shares nudge higher as housebuilder sees strong 2014,2,2,True
+morrisons store closures: 900 jobs to go as 11 branches are closed due to,0,0,True
+astrazeneca teams with daiichi sankyo to sell movantik in us,2,0,False
+standard chartered ceo peter sands to resign after unrest at bank,0,0,True
+direct line rings up higher profit,2,2,True
+sainsbury chief warns of squeeze on high street retailers,0,0,True
+valeant ceo pledges to heed critics after painful experience,0,0,True
+update 3 bp settles oil spill related claims with halliburton transocean,0,0,True
+diageo heineken exchange emerging market brewing assets,2,2,True
+dixons carphone profit boost on strong sales,2,2,True
+shell seeks to remove greenpeace activists from oil rig,0,0,True
+ab inbev holds talks with regulators about california deals,0,2,False
+glencore shares enjoy bounce back after hong kong led surge,2,2,True
+standard chartered misses estimates in sands s last results,0,0,True
+itv acquires poldark production company mammoth screen,2,2,True
+astrazeneca to buy zs pharma for $2 7 billion,2,2,True
+four former barclays bankers jailed over libor,0,0,True
+astrazeneca s good deal turns bad,0,0,True
+us urges final approval of $20 billion bp oil spill pact,0,0,True
+update 1 norway s statoil shakes up top management replaces cfo,0,0,True
+companiesmorrison evicted from ftse 100 as worldpay joins,0,0,True
+l&g still paying price for dividend cut during crisis chief says,0,0,True
+3g capital warren buffett s favorite partner in deals worth billions,2,2,True
+fda panel backs glaxo asthma drug for adults not adolescents,2,0,False
+royal mail chairman donald brydon set to step down,0,0,True
+should you buy jumbo yielders british american tobacco plc centrica plc & john wood group plc,2,2,True
+update 1 petrofac posts net loss hurt by shetland islands project costs,0,0,True
+clinigen chosen by astrazeneca to manage access programme for next,2,2,True
+gsk and novartis complete deals to reshape both drugmakers,2,2,True
+sse cuts gas prices by 4 1 to become fifth of big six providers to slash energy,0,0,True
+breakingviews: iag can pay more for aer lingus,2,2,True
+update 1 bg group s record output limits oil price fallout,2,0,False
+standard life slips as greek worries peg back britain s ftse,0,0,True
+militants fire rockets at algerian bp statoil gas plant no casualties,0,0,True
+severn trent share price jumps as canadian investor renews pursuit of utility,2,2,True
+we d support hsbc leaving london says standard life,2,0,False
+failure of leadership behind tesco troubles says former ceo leahy,0,0,True
+rbi surprises street; sensex pares gains after hitting mount 30k,2,0,False
+update 1 rbs raising $3 1 billion through issue of coco bonds,2,2,True
+us stocks wall st rises on berkshire deal china stimulus hopes,2,2,True
+berkshire seeks to boost its wells fargo stake above 10 percent,2,2,True
+ftse slide halted by bp s â£12bn us settlement london report,0,0,True
+bidders abandon auction of tesco data unit,0,0,True
+warren buffett s awesome feat at berkshire hathaway revisited,2,2,True
+bp chairman defends ceo bob dudley s pay increase,2,2,True
+asahi could be about to snap up more of sabmiller s beers ahead of ab inbev sale,2,2,True
+astrazeneca shares climb 3 as drug maker ups profits forecasts,2,2,True
+insight hires aviva s david hillier for multi asset team,2,2,True
+lloyds sells irish loan portfolio for â£827m,2,0,False
+sharm el sheikh: easyjet axes all flights to egypt s leading holiday resort,0,0,True
+uk regulators license bat e cigarette as quit smoking medicine,2,2,True
+glencore sells $2 5 billion stake in agriculture unit,2,0,False
+centrica urges policy overhaul as it warns of looming gap in uk energy supplies,0,0,True
+glaxosmithkline rebound gathering pace says outgoing ceo,2,2,True
+borealis infrastructure putting together new severn trent bid,2,2,True
+weir group sees continued fall in orders from oil and gas business,0,0,True
+unilever posts weaker than expected fourth quarter,0,0,True
+astrazeneca investment eats into profit,0,0,True
+astrazeneca heart drug boosted by major clinical trial success,2,2,True
+glencore sells shares to raise $2 5 billion and reduce debt,2,2,True
+l&g fund arm nikko asset management sign bond fund distribution deal,2,2,True
+earnings surge as fund manager schroders reports a record year,2,2,True
+arm shrugs off smartphone slowdown as newer designs win share,2,2,True
+standard life impresses as fee based products offset annuities slump,2,2,True
+us cancels arctic offshore lease sale after shell drops interest,0,0,True
+astrazeneca sells us drug rights to perrigo for $380 mln,2,2,True
+update 1 britain s tullow says makes new oil find in kenya,2,2,True
+saudi aramco shell plan to break up motiva divide up assets,0,0,True
+intercontinental exchange opts not to bid for london stock exchange,0,0,True
+britain s ftse hits three week low as financials tesco fall,0,0,True
+glencore launches refinancing of credit line,2,2,True
+tesco closes in on new chairman with dixons carphone s john allan in the frame,2,2,True
+ftse 100 movers: bg group leads the charge as resource stocks jump,2,2,True
+companiesab inbev signals it won t go hostile for sabmiller,2,2,True
+chipotle sales plunge as troubled chain gets federal subpoena,0,0,True
+philippines san miguel says to partner with kirin if it bids for sabmiller s,2,2,True
+renewed ab inbev bid for sabmiller ups stake in beer battle,2,2,True
+nyse owner ice considers offer for lse,2,2,True
+update 1 uk to start selling remaining royal mail shares,0,0,True
+cuadrilla chief francis egan: scaremongering fracking opponents make me angry,0,0,True
+companiestesco bumps up pay for store staff,2,2,True
+stanchart announces $5 1 billion capital raising plan posts q3 loss,0,0,True
+standard life hit by unprecedented number of calls on pension freedoms,0,0,True
+bhp billiton slashes dividend posts $5 67 billion net loss,0,0,True
+us walrus protections hit shell s arctic drilling plan,0,0,True
+glaxo s viiv healthcare signs china manufacturing deal with desano,2,2,True
+intercontinental hotels denies reports of starwood merger talks,0,0,True
+entertainment one dispels itv takeover rumours,2,0,False
+stakes high for astrazeneca heart drug facing tough competition,0,0,True
+marketsus industrials lag as barclays dims view,0,0,True
+aviva plans to up pay out ratio says too soon to judge brexit impact,2,0,False
+shell challenges exxon dominance with 47 billion pound bid for bg,2,2,True
+glaxosmithkline s ceo witty to bow out in march 2017,0,0,True
+oil giant shell to cut around 2800 jobs amid bg takeover,0,0,True
+australia clears ab inbev s $100 billion sabmiller buyout plan,2,2,True
+britain s ftse eyes 7th straight daily rise; wolseley lags,0,2,False
+helge lund moves to bg a month early,2,0,False
+sse faces profiteering accusations despite 5 3 cut in gas charges,0,0,True
+marketsubs goldman sachs cut metals forecasts,0,0,True
+bhp billiton says no settlement yet on brazil dam disaster,0,0,True
+glencore shares rally after miner hits back,2,2,True
+us sanctions put gazprom shell alliance plans in jeopardy,0,0,True
+aggreko says first half profits will be lower as the oil price rout claims its latest victim,0,0,True
+shell offers 50 percent premium to buy bg for $70 billion,2,2,True
+astrazeneca weighing up acerta bid to secure blood cancer drug,2,2,True
+brief legal & general s retirement business books 4 billion stg h1 sales,2,0,False
+sab s chairman digs in with board divided on inbev offer,2,0,False
+are arm holdings plc domino s pizza group plc and asos plc 3 must have growth stocks,1,2,False
+update 2 prudential will see strong first half earnings outgoing ceo says,2,2,True
+cuadrilla and protesters await lancashire fracking decision,0,0,True
+britain s power supplies enough to meet winter demand national grid,2,2,True
+royal bank of scotland chair hints brexit turmoil will delay government sale,0,0,True
+companiesactelion shares hit record on shire takeover talk,2,2,True
+sainsbury s and glencore give ftse a three digit lift london report,2,2,True
+stanchart and rbs struggle in bank of england stress tests,0,0,True
+london stock exchange unit in talks to operate plato venue,2,2,True
+news feedftse 100 movers: lse surges as ice says mulling offer; ashtead and barclays tank,2,2,True
+bt finance director tony chanmugam to step down,0,0,True
+astrazeneca does us$770mln anaesthetic deal,2,2,True
+hsbc posts surprise fourth quarter pretax loss of $858 million,0,0,True
+shares in bae systems hit 10 month high on rating upgrade,2,2,True
+tesco criticised for disgraceful advert showing domestic worker being slapped,0,0,True
+companiesg4s claims positive start to the year,2,2,True
+easyjet leads britain s ftse lower as global bond rout resumes,0,0,True
+dbs julius baer emerge as potential bidders for barclays asia wealth unit,2,2,True
+teva first quarter net rises 11 amid mylan takeover battle,2,2,True
+uk chip designer arm hits a high after iphone 6 boost,2,2,True
+valeant ceo returns from leave company withdraws guidance,2,0,False
+hsbc shakes up board with two new business chiefs three departures,0,0,True
+zurich insurance considering offer for uk rival rsa insurance,2,2,True
+bp slashes capital spending by 20,0,0,True
+oilfield services firm petrofac s debt shoots up 50 per cent,0,2,False
+standard chartered share price: aberdeen ceo would back potential capital increase,2,2,True
+sainsbury sells unit to lloydspharmacy,2,2,True
+clydesdale and yorkshire moves closer to independence,2,2,True
+royal mail turnaround proving expensive in tough uk market,0,0,True
+eurocrat left best placed to unravel london stock exchange deal,0,0,True
+prudential hit by withdrawals from m&g investment arm,0,0,True
+fewer multi buys hurt sainsbury s market share,0,0,True
+tesco s boardroom clearout continues,0,0,True
+royal dutch shell pulls plug on arctic exploration,0,0,True
+travis perkins to create 4000 jobs,2,2,True
+bilfinger industrial services win â£100m bp contract extension,2,2,True
+halfords appoints jonny mason as new cfo,1,2,False
+tesco shareholders back itv head for chairman,2,2,True
+hargreaves lansdown bucks weak markets to see assets rise 2 6 percent,2,2,True
+wpp wins race for programmatic buying agency essence digital,2,2,True
+shell share price: standard life announce position against bg acquisition,0,2,False
+pearson to cut 4000 jobs as it warns on profits,0,0,True
+secretive barclays deal involved qatari clients,0,2,False
+companiesnew aggreko ceo to reshape business strip costs,2,0,False
+bp s head of exploration richard herbert departs,0,2,False
+itv merger reports boost footsie stocks,2,2,True
+update 1 dairy crest loses a third of morrisons milk contract,0,0,True
+glaxosmithkline starts hunt for successor to ceo witty,1,2,False
+rbs hands â£3 3m of shares to top staff,2,2,True
+barclays executive harrison denies knowledge of libor fixing,0,0,True
+arm profits and sales up as shift away from mobile gains pace,2,2,True
+sabmiller buys meantime to quench thirst for craft beer,2,2,True
+shell profit rises as company resist oil slump,2,2,True
+tesco s sales pickup isn t enough,0,2,False
+tesco sales rise shows tentative recovery continues,2,2,True
+industry newsrevenue earnings take a tumble at weir group,0,0,True
+royal mail revenue flat as letters weakness offsets parcels strength,1,0,False
+retailers kingfisher and sports direct rise in britain s share index,2,2,True
+metals zinc soars 10 pct fuelling metals surge after glencore cuts output,2,2,True
+standard chartered to slash costs as profits plunge 25,0,0,True
+ftse boosted by dixons carphone with fed in focus,2,2,True
+update: cib legal & general sell egyptian life joint venture to axa,2,2,True
+us dollar wipes out sales gains for sabmiller,0,0,True
+tesco boss urges rethink on minimum wage and business rates,2,0,False
+companieslord livingston joins dixons carphone,2,2,True
+tesco asda sales fall as march of the discounters continues: kantar,0,0,True
+marketsmoneysupermarket slides 11 on barclays brexit warning,0,0,True
+relief for lewis as tesco sees sales grow for first time in a year,2,2,True
+valeant s pearson says timing of return uncertain,0,0,True
+companiestullow says gas exports at key field disrupted,0,0,True
+kinder morgan and bp form joint venture limited liability company to purchase,2,2,True
+shire proposes $30 bln all share tie up with baxalta,2,2,True
+britain cuts lloyds banking group stake to below 17 pct,0,0,True
+two former barclays traders face retrial over libor,0,0,True
+barclays share price subdued as bank faces fresh forex probe,0,0,True
+trading expertbroker recommendationsanalysts mostly negative on aberdeen but some see value,0,2,False
+astrazeneca to pay inovio up to $700 million for cancer drug,2,2,True
+royal dutch shell to buy bg group for nearly $70 billion,2,2,True
+barclays brands financier amanda staveley s $1bn claim as misconceived,0,0,True
+compass group says positive for year ahead,2,2,True
+retail focus helps to shield lloyds from banking chill,2,2,True
+gabon considering back tax penalties against royal dutch shell,0,0,True
+uk morning briefing: sky and hargreaves lansdown bookend ftse 100,2,2,True
+johnson matthey profit falls but dividend rises,1,0,False
+morrisons book second consecutive quarter of sales growth,2,2,True
+admiral group posts decline in 2014 earnings,0,0,True
+dave lewis paid â£4 1m for first 6 months at tesco,0,2,False
+update 1 astrazeneca buys zs pharma for $2 7 billion pips actelion,2,2,True
+ocbc to buy barclay s wealth management unit in singapore hong kong,2,2,True
+persimmon share price climbs on 23 rise in full year revenue,2,2,True
+barclays set to name former jpmorgan banker staley as new ceo,1,2,False
+horizonte acquires neighbouring glencore nickel property in brazil,2,2,True
+nyse owner ice may gatecrash deutsche boerse lse merger,2,0,False
+dividends unleashed at royal bank of scotland group plc,2,0,False
+tesco sells half of stake in ecommerce site lazada to alibaba for â£90m,2,2,True
+diageo sales disappoint as currency and comparatives leave bitter taste,0,0,True
+spain s caixabank launches new takeover bid for banco bpi,2,2,True
+tesco shares jump 6 after christmas sales beat expectations,2,2,True
+update 3 auto trader shares leap in uk s biggest private equity backed listing,2,2,True
+schroders posts fy profit beat replaces ceo and chairman in board shake up,2,0,False
+update 1 seattle flotilla protests shell s arctic drilling plans,0,0,True
+old mutual share price: wealth unit seen as blue chip company,2,2,True
+astrazeneca to cut costs but stays silent on m&a talk,2,2,True
+merkel s government said to support deutsche boerse lse merger,2,2,True
+easyjet sneakairs : airline is testing smart shoes to help customers explore destinations,2,2,True
+britain facing winter of blackouts as national grid warns of tightest power,0,0,True
+persimmon reports strong trading despite eu vote and planning delays,2,2,True
+weir group says first half profits will be slightly ahead of expectations,2,2,True
+companiesmetro bank raises â£400m ahead of london listing,2,2,True
+japan s nikkei lands financial times in $1 3 billion deal,2,2,True
+hsbc chief hit with tax avoidance scandal,0,0,True
+barclays s next ceo should be investment banker aberdeen says,2,2,True
+persimmon sells 17 more houses in 2014,2,2,True
+hargreaves weathers torrid isa season and brexit fears,0,0,True
+tesco cut to junk at moody s on concern revival to take time,0,0,True
+tesco is torn apart as watchdog finds supermarket repeatedly withheld payments from suppliers,0,0,True
+hsbc marks muted 150th birthday party with grain of rice sculptures,1,2,False
+standard chartered will close equity sales and research business,0,2,False
+astrazeneca says new lung cancer pill tagrisso approved by eu,2,2,True
+g4s suspends workers at uk youth centre over allegations of unnecessary force,0,0,True
+should you buy associated british foods plc great portland estates plc and dunelm group plc following today s news,2,2,True
+barclays denies deferred prosecution offer from sfo,0,2,False
+tesco set to sell kipa giraffe businesses sky news,0,2,False
+hsbc says unit to book $585 million charge on settlement,0,0,True
+update: aggreko interim profit drops as it undertakes restructuring,0,0,True
+arm holdings plc partners with international business machines corp to drive,2,2,True
+tesco names deloitte as new auditor after accounting scandal,2,0,False
+shire share price under pressure after $32bn baxalta deal,0,0,True
+oil majors like royal dutch shell chevron bp fail to find reserves to counter,0,0,True
+severn trent share price rises as first half profit inches up as customer,2,2,True
+industry newswood group wins multi million dollar contract with bp,2,2,True
+shire ceo steps up drive to get baxalta board talking,2,2,True
+tesco sells blinkbox and broadband service to talktalk,2,2,True
+copper prices up on glencore cuts to zinc supply,2,2,True
+mcewan will be nursing rbs through more struggles yet,0,0,True
+uk sells more of lloyds bank stake 12 5 billion pounds raised so far,0,2,False
+pearson expects to return to growth this year,2,2,True
+big account wins keep ad group wpp at front of pack,2,2,True
+barclays appoints jpmorgan s paul compton as new coo,2,2,True
+carnival corporation and china merchants group sign memo of understanding,2,2,True
+mylan appoints ranjan ray chaudhuri as global commercial lead for mylan s over,1,2,False
+update: astrazeneca s selumetinib gets orphan drug label good azd9291,2,2,True
+2 turnaround buys for 2016 bhp billiton plc and home retail group plc,2,2,True
+barclays backs new iphone and android app that lets users send each other money using a bitcoin network,2,2,True
+tesco mobile partners with unlockd to change the way consumers use and pay for their mobile phones,2,2,True
+tesco turnaround gathers pace under new ceo,2,2,True
+hsbc keeps headquarters in london rejects move to hong kong,2,2,True
+barclays said to be cutting 150 investment bank jobs,0,0,True
+gsk reveals strong trial results for shingles drug,2,2,True
+morrisons helps ftse edge higher energy shares slip,2,2,True
+rbs will reportedly appoint howard davies as its next chairman,2,2,True
+warren buffett s berkshire hathaway buys stake in apple,2,2,True
+goldman sachs barclays hsbc downplay brexit threat,1,0,False
+arm swings to profit in fourth quarter,2,2,True
+arm buoyed by race to build the internet of things,2,2,True
+itv strike: broadcaster s revenue soars but staff walkout for a piece of the action,2,2,True
+bp judge urged to impose $11 7 billion plus spill fine,0,0,True
+glencore studies possible ipo for agricultural trading business,2,2,True
+aviva expects 1500 jobs cuts from friends life deal,2,0,False
+iag closes in on aer lingus with increased offer,2,2,True
+barclays deutsche bank fight to lift profit just got harder,0,2,False
+reed elsevier to rename itself relx group,1,2,False
+crh s concrete bid for holcim lafarge assets,2,2,True
+update 1 cypress semiconductor offers to buy integrated silicon solution,2,2,True
+rolls royce wins $9 2 billion order from emirates airline,2,2,True
+sugar tax spurs pepsi owner britvic to change drinks recipes by 2020,0,2,False
+update 5 buffett pays high price for precision castparts,2,0,False
+primark plots expansion in us and europe,2,2,True
+us says hsbc must do more to improve compliance,0,0,True
+pearson forecasts rising earnings as reorganization pays off,2,2,True
+insurers: admiral blows hot and cold but aviva soars pre friends life merger,2,2,True
+itv shares dip after update,0,0,True
+aggreko 2015 profit declines quick facts,0,0,True
+astrazeneca sells caprelsa rights to sanofi unit,2,2,True
+ab inbev launches sab bid to sell millercoors stake,2,2,True
+lpc glencore launches refinancing of $8 45billion loan,2,2,True
+european shares fall on chinese import data sabmiller soars,2,2,True
+profits fall 25 at standard chartered plc: should you buy or sell,0,0,True
+britain s ftse gains land securities up after dividend hike,2,2,True
+credit suisse poaches prudential s thiam for asian push,0,2,False
+currency causes full year headaches for sabmiller,0,0,True
+world s banks may halve jobs and branches within 10 years barclays ex boss,0,0,True
+early victory for new ceo as morrisons beats forecasts,2,2,True
+walmart still selling maryland t shirts featuring the outline of massachusetts,2,2,True
+britain s ftse steadies supported by dixons carphone,2,2,True
+astrazeneca cancer drug may not be so fast getting to market,0,2,False
+five years after bp oil spill some gulf oystermen are losing hope,0,0,True
+ab inbev attacks sabmiller bid rebuffal,0,0,True
+bp statoil to withdraw staff from algeria following rocket attack,0,0,True
+companiesthiam received â£5m pay packet for final months at prudential,0,0,True
+market report: aviva tops the market as traders approve of its choice of friends,2,2,True
+peroni and grolsch put up for sale as ab inbev plans acquisition of sabmiller,2,2,True
+kingfisher share price slides on cost to implement new strategy,0,0,True
+buffett s berkshire builds deere stake dumps exxon,2,0,False
+jim armitage: barclays boss jes staley steps up to the plate with post leave positivity,2,2,True
