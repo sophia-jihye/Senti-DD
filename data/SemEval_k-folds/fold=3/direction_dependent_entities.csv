@@ -1,0 +1,16 @@
+direction_dependency,entity,score
+proportional,oil,1.1376146788990826
+proportional,price,1.0859049207673062
+proportional,tesco,1.0428134556574924
+proportional,sale,1.0238532110091743
+inversely_proportional,year,-1.3777777777777778
+proportional,group,1.1376146788990826
+proportional,share,1.0591584941474217
+proportional,profit,1.0428134556574924
+proportional,ceo,1.0112130479102956
+proportional,earnings,1.1376146788990826
+inversely_proportional,shell,-1.180952380952381
+proportional,ftse,1.0428134556574924
+inversely_proportional,britain,-1.180952380952381
+inversely_proportional,glencore,-1.3777777777777778
+inversely_proportional,barclays,-2.361904761904762
