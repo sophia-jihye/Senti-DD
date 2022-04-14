@@ -12,7 +12,8 @@ from nltk import word_tokenize
 import reports
 
 root_dir = './data' 
-train_filepaths = sorted(glob(os.path.join(root_dir, 'FinancialPhrase*', '*', 'train.csv')))
+# train_filepaths = sorted(glob(os.path.join(root_dir, 'FinancialPhrase*', '*', 'train.csv')))   # FPB
+train_filepaths = sorted(glob(os.path.join(root_dir, 'SemEval*', '*', 'train.csv'))) # SemEval
 
 model_names = ['word2vec-google-news-300']
 
