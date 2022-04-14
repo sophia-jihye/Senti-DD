@@ -34,7 +34,7 @@ if __name__ == '__main__':
                 (lexicons.socal_polarity, 'SO-CAL'), (lexicons.mpqa_polarity, 'MPQA'), (lexicons.afinn_polarity, 'AFINN'), \
                 (lexicons.sentistrength_polarity, 'SentiStrength')]
 
-    Predict polarity based on lexicons
+    # Predict polarity based on lexicons
     for test_filepath in test_filepaths:
         for lexicon_func, lexicon_name in lexicons:
             print('Processing {} with {}..'.format(test_filepath, lexicon_name))
