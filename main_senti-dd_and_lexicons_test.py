@@ -23,31 +23,34 @@ if __name__ == '__main__':
 
     # Construct Senti-DD
     for train_filepath in train_filepaths:
+        print('Processing {}..'.format(train_filepath))
         save_dir = os.path.dirname(train_filepath).replace('data', 'results')
+        test_filepath = train_filepath.replace('train.csv', 'test.csv')
         
-        for test_filepath in test_filepaths:
-            print('Processing {}..'.format(train_filepath))
-            dd_filepath = os.path.join(save_dir, 'direction_dependent_entities.csv')
-            senti_dd_filepath = os.path.join(save_dir, 'Senti-DD.csv')
-            construct_senti_dd(train_filepath, dd_filepath, senti_dd_filepath)
-            for lexicon_func, lexicon_name in lexicon_list:
-                print('Processing {} with {}..'.format(test_filepath, lexicon_name))
+        # Construct Senti-DD
+        dd_filepath = os.path.join(save_dir, 'direction_dependent_entities.csv')
+        senti_dd_filepath = os.path.join(save_dir, 'Senti-DD.csv')
+        construct_senti_dd(train_filepath, dd_filepath, senti_dd_filepath)
+        
+        # Predict polarity based on lexicons
+        for lexicon_func, lexicon_name in lexicon_list:
+            print('Processing {} with {}..'.format(test_filepath, lexicon_name))
 
-                df = pd.read_csv(test_filepath)
+            df = pd.read_csv(test_filepath)
 
-                if lexicon_name == 'senti-dd':
-                    senti_dd_filepath = os.path.join(save_dir, 'Senti-DD.csv')
-                    senti_dd = pd.read_csv(senti_dd_filepath)
-                    df['prediction'] = df['headline'].apply(lambda x: lexicons.senti_dd_polarity(x, senti_dd))
-                else:         
-                    df['prediction'] = df['headline'].apply(lambda x: lexicon_func(x))
+            if lexicon_name == 'senti-dd':
+                senti_dd_filepath = os.path.join(save_dir, 'Senti-DD.csv')
+                senti_dd = pd.read_csv(senti_dd_filepath)
+                df['prediction'] = df['headline'].apply(lambda x: lexicons.senti_dd_polarity(x, senti_dd))
+            else:         
+                df['prediction'] = df['headline'].apply(lambda x: lexicon_func(x))
 
-                df['correct'] = df.apply(lambda x: x['label']==x['prediction'], axis=1)
-                df.to_csv(os.path.join(save_dir, 'predictions_{}.csv'.format(lexicon_name), index=False)
+            df['correct'] = df.apply(lambda x: x['label']==x['prediction'], axis=1)
+            df.to_csv(os.path.join(save_dir, 'predictions_{}.csv'.format(lexicon_name)), index=False)
 
-                labels, preds = df.label, df.prediction
-                create_confusion_matrix(labels, preds, \
-                                        os.path.join(save_dir, 'confusion_matrix_{}.csv'.format(lexicon_name))
-                accuracy = len(df[df['correct']==True]) / len(df)
-                create_classification_report(labels, preds, accuracy, \
-                                             os.path.join(save_dir, 'classification_report_{}.csv'.format(lexicon_name)))
+            labels, preds = df.label, df.prediction
+            create_confusion_matrix(labels, preds, \
+                                    os.path.join(save_dir, 'confusion_matrix_{}.csv'.format(lexicon_name)))
+            accuracy = len(df[df['correct']==True]) / len(df)
+            create_classification_report(labels, preds, accuracy, \
+                                         os.path.join(save_dir, 'classification_report_{}.csv'.format(lexicon_name)))
