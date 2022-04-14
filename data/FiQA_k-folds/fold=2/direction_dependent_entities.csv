@@ -1,0 +1,6 @@
+direction_dependency,entity,score
+proportional,share,1.0727272727272728
+proportional,ftse,1.0727272727272728
+inversely_proportional,tesco,-2.95
+inversely_proportional,sabmiller,-2.107142857142857
+proportional,price,1.019090909090909

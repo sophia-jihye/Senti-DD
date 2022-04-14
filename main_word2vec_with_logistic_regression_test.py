@@ -13,7 +13,8 @@ import reports
 
 root_dir = './data' 
 # train_filepaths = sorted(glob(os.path.join(root_dir, 'FinancialPhrase*', '*', 'train.csv')))   # FPB
-train_filepaths = sorted(glob(os.path.join(root_dir, 'SemEval*', '*', 'train.csv'))) # SemEval
+# train_filepaths = sorted(glob(os.path.join(root_dir, 'SemEval*', '*', 'train.csv'))) # SemEval
+train_filepaths = sorted(glob(os.path.join(root_dir, 'FiQA*', '*', 'train.csv'))) # FiQA
 
 model_names = ['word2vec-google-news-300']
 
