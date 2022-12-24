@@ -9,7 +9,7 @@
 * [Subtask 2 of Task 5 in SemEval 2017](https://alt.qcri.org/semeval2017/task5/index.php)
   - Cortis, Keith, André Freitas, Tobias Daudert, Manuela Huerlimann, Manel Zarrouk, Siegfried Handschuh, and Brian Davis. "Semeval-2017 task 5: Fine-grained sentiment analysis on financial microblogs and news." Association for Computational Linguistics (ACL), 2017.
 * [Task 1 of the financial opinion mining and question answering (FiQA) challenge](https://sites.google.com/view/fiqa/home)
-  - Maia, Macedo, Siegfried Handschuh, André Freitas, Brian Davis, Ross McDermott, Manel Zarrouk, and Alexandra Balahur. "Www'18 open challenge: financial opinion mining and question answering." In Companion proceedings of the the web conference 2018, pp. 1941-1942. 2018.
+  - Maia, Macedo, Siegfried Handschuh, André Freitas, Brian Davis, Ross McDermott, Manel Zarrouk, and Alexandra Balahur. "WWW’18 Open Challenge: Financial Opinion Mining and Question Answering." In Companion proceedings of the the web conference 2018, pp. 1941-1942. 2018.
   
 ## Citation
 ```
