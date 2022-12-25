@@ -1,6 +1,7 @@
 # Senti-DD
 
 ## Python implementation of Senti-DD
+* [Senti-DD](https://github.com/sophia-jihye/Senti-DD/blob/main/data/DS50_Entire/Senti-DD.csv)
 * Direction-dependent words extracted from the entire DS50 dataset are in [here](https://github.com/sophia-jihye/Senti-DD/tree/main/data/DS50_Entire/direction_dependent_entities.csv)
 
 ## Datasets
