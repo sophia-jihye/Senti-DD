@@ -1,21 +1,21 @@
 headline,label,senti_dd_prediction,senti_dd_pos_pairs,senti_dd_neg_pairs
-in july september 2008 yit s net sales increased to eur 970 8 mn compared to eur 906 8 mn in the corresponding period in 2007,positive,positive,"['period_increas', 'eur_increas', 'september_increas', 'net_increas', 'sale_increas']",[]
-adp news feb 12 2009 finnish construction company lemminkainen oyj hel : lem1s said today its net profit decreased to eur 63 5 million usd 81 1 m for 2008 from eur 80 6 million for 2007,negative,negative,"['company_decreas', 'construction_decreas']","['profit_decreas', 'net_decreas', 'news_decreas', 'eur_decreas', 'oyj_decreas']"
-revenue was slightly down at x20ac 495 million $ 634 million compared to x20ac 497 million a year earlier,negative,negative,[],"['year_down', 'revenue_down']"
-operating profit totaled eur 9 4 mn down from eur 11 7 mn in 2004,negative,negative,[],"['profit_down', 'eur_down']"
-finnish metal products company componenta oyj net profit rose to 26 1 mln euro $ 35 9 mln for the first quarter of 2007 from 5 3 mln euro $ 7 3 mln for the same period of 2006,positive,positive,"['product_rose', 'period_rose', 'mln_rose', 'oyj_rose', 'quarter_rose', 'net_rose', 'metal_rose', 'profit_rose']",['company_rose']
-tietoenator was down 1 13 pct to 18 38 extending recent lows after last week s second quarter report dealers said,negative,negative,[],"['quarter_down', 'report_down']"
-pre tax profit totaled eur 397 4 mn up from eur 164 7 mn,positive,positive,"['eur_up', 'profit_up']",[]
-operating profit was eur 0 1 mn down from eur 1 3 mn,negative,negative,[],"['profit_down', 'eur_down']"
-lithuanian beer makers sold 256 88 million liters of beer in 2005 a rise of 4 5 per cent from the year earlier figure of 245 92 million liters,positive,positive,"['maker_rise', 'beer_rise', 'year_rise', 'cent_rise', 'liter_rise']",[]
-operating profit excluding non recurring items totalled eur 2 2 mn down from eur 2 7 mn in the corresponding period in 2008,negative,negative,[],"['item_down', 'period_down', 'profit_down', 'eur_down']"
+diluted earnings per share eps rose to eur 3 68 from eur 0 50,positive,positive,"['eur_rose', 'share_rose']",[]
+comparable operating profit decreased to eur 13 8 mn from eur 17 1 mn in the corresponding period in 2005,negative,negative,[],"['profit_decreas', 'eur_decreas', 'period_decreas']"
+the world s second largest stainless steel maker said net profit in the three month period until dec 31 surged to euro603 million us$ 781 million or euro3 33 us$ 4 31 per share from euro172 million or euro0 94 per share the previous year,positive,positive,"['maker_surg', 'period_surg', 'world_surg', 'net_surg', 'share_surg', 'month_surg', 'profit_surg', 'year_surg']",[]
+net profit fell by almost half to +é 5 5 million from +é 9 4 million at the end of 2007,negative,negative,[],"['end_fell', 'net_fell', 'profit_fell']"
+in december alone the members of the lithuanian brewers association sold a total of 20 3 million liters of beer an increase of 1 9 percent from the sales of 19 92 million liters in december 2004,positive,positive,"['percent_increas', 'beer_increas', 'sale_increas', 'liter_increas']",[]
+that would be an increase from estimated sales of 117 million last year,positive,positive,"['year_increas', 'sale_increas']",[]
+ragutis which is controlled by the finnish brewery reported a 5 4 per cent rise in beer sales to 10 44 million litres and held an 11 09 per cent market share,positive,positive,"['beer_rise', 'share_rise', 'cent_rise', 'brewery_rise', 'sale_rise']",[]
+operating profit rose from eur 1 94 mn to eur 2 45 mn,positive,positive,"['eur_rose', 'profit_rose']",[]
+both operating profit and net sales for the 12 month period increased respectively from eur21 5 m and eur196 1 m as compared to 2005,positive,positive,"['sale_increas', 'period_increas', 'net_increas', 'month_increas', 'profit_increas']",[]
+finnish silicon wafer technology company okmetic oyj omx helsinki : okm1v reported on thursday 7 august an operating profit of eur5 3 m for the period january june 2008 up from eur3 3 m in the corresponding period in 2007,positive,positive,"['period_up', 'profit_up', 'oyj_up', 'june_up']",['company_up']
+the swedish subsidiary holds 1 0 net smelter return nsr royalties over two advanced copper projects in northern sweden the viscaria and adak projects being developed by avalon minerals ltd asx : avi,neutral,positive,['net_advanc'],[]
+teleste was set up in 1954 and is divided into broadband cable networks and video networks business areas,neutral,positive,"['area_up', 'teleste_up', 'business_up']",[]
+the stock rose for a second day on wednesday bringing its two day rise to gbx12 0 or 2 0,positive,negative,[],"['day_rose', 'day_rise']"
+the stock is trading above both its maps and the 50 day map of sek72 983 is higher than the 200 day map of sek70 283 a bullish indicator,positive,negative,[],['day_higher']
 turun kaupunkin finland based company has awarded contract to lemminkainen talotekniikka oy for electrical installation work,positive,neutral,['contract_award'],['company_award']
-the australian company mirabela nickel has awarded outokumpu technology a contract for grinding technology for its nickel sulfide project in bahia state brazil,positive,neutral,['contract_award'],['company_award']
+following this increase huhtamaki s registered share capital is eur360 62 m and the number of shares outstanding is 106 063 320,neutral,positive,"['share_increas', 'capital_increas']",[]
 the company can not give up palm oil altogether however,neutral,negative,[],['company_up']
-the order also includes start up and commissioning services,neutral,positive,['order_up'],[]
-elcoteq se is europe s largest contract electronics maker and has set up a unit in bangalore in association with avista advisory of mumbai,neutral,positive,"['maker_up', 'electronics_up', 'contract_up']",[]
-he joined rautakirja in 1997 to lead one of its four business areas and took up the position of president and ceo in 2001,neutral,positive,"['area_up', 'business_up']",[]
-teleste was set up in 1954 and is divided into broadband cable networks and video networks business areas,neutral,positive,"['area_up', 'business_up', 'teleste_up']",[]
-in august october 2010 the company s result before taxes totalled eur 9 6 mn up from eur 0 5 mn in the corresponding period in 2009,positive,neutral,"['eur_up', 'period_up']","['company_up', 'result_up']"
-stock exchange announcement 20 july 2006 1 1 basware share subscriptions with warrants and increase in share capital a total of 119 850 shares have been subscribed with basware warrant program,neutral,positive,"['capital_increas', 'share_increas']",[]
-following this increase huhtamaki s registered share capital is eur360 62 m and the number of shares outstanding is 106 063 320,neutral,positive,"['capital_increas', 'share_increas']",[]
+unit costs for flight operations fell by 6 4 percent,positive,neutral,['cost_fell'],['percent_fell']
+the stock rose for a third day on tuesday bringing its three day rise to gbx10 50 or 1 8,positive,negative,[],"['day_rose', 'day_rise']"
+the price of raw material aluminium went up at the end of 2005 but the company considers its outlook for 2006 favourable,positive,neutral,['end_up'],['company_up']
