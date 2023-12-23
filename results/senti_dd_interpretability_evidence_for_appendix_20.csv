@@ -1,0 +1,21 @@
+headline,label,senti_dd_prediction,senti_dd_pos_pairs,senti_dd_neg_pairs
+in july september 2008 yit s net sales increased to eur 970 8 mn compared to eur 906 8 mn in the corresponding period in 2007,positive,positive,"['period_increas', 'eur_increas', 'september_increas', 'net_increas', 'sale_increas']",[]
+adp news feb 12 2009 finnish construction company lemminkainen oyj hel : lem1s said today its net profit decreased to eur 63 5 million usd 81 1 m for 2008 from eur 80 6 million for 2007,negative,negative,"['company_decreas', 'construction_decreas']","['profit_decreas', 'net_decreas', 'news_decreas', 'eur_decreas', 'oyj_decreas']"
+revenue was slightly down at x20ac 495 million $ 634 million compared to x20ac 497 million a year earlier,negative,negative,[],"['year_down', 'revenue_down']"
+operating profit totaled eur 9 4 mn down from eur 11 7 mn in 2004,negative,negative,[],"['profit_down', 'eur_down']"
+finnish metal products company componenta oyj net profit rose to 26 1 mln euro $ 35 9 mln for the first quarter of 2007 from 5 3 mln euro $ 7 3 mln for the same period of 2006,positive,positive,"['product_rose', 'period_rose', 'mln_rose', 'oyj_rose', 'quarter_rose', 'net_rose', 'metal_rose', 'profit_rose']",['company_rose']
+tietoenator was down 1 13 pct to 18 38 extending recent lows after last week s second quarter report dealers said,negative,negative,[],"['quarter_down', 'report_down']"
+pre tax profit totaled eur 397 4 mn up from eur 164 7 mn,positive,positive,"['eur_up', 'profit_up']",[]
+operating profit was eur 0 1 mn down from eur 1 3 mn,negative,negative,[],"['profit_down', 'eur_down']"
+lithuanian beer makers sold 256 88 million liters of beer in 2005 a rise of 4 5 per cent from the year earlier figure of 245 92 million liters,positive,positive,"['maker_rise', 'beer_rise', 'year_rise', 'cent_rise', 'liter_rise']",[]
+operating profit excluding non recurring items totalled eur 2 2 mn down from eur 2 7 mn in the corresponding period in 2008,negative,negative,[],"['item_down', 'period_down', 'profit_down', 'eur_down']"
+turun kaupunkin finland based company has awarded contract to lemminkainen talotekniikka oy for electrical installation work,positive,neutral,['contract_award'],['company_award']
+the australian company mirabela nickel has awarded outokumpu technology a contract for grinding technology for its nickel sulfide project in bahia state brazil,positive,neutral,['contract_award'],['company_award']
+the company can not give up palm oil altogether however,neutral,negative,[],['company_up']
+the order also includes start up and commissioning services,neutral,positive,['order_up'],[]
+elcoteq se is europe s largest contract electronics maker and has set up a unit in bangalore in association with avista advisory of mumbai,neutral,positive,"['maker_up', 'electronics_up', 'contract_up']",[]
+he joined rautakirja in 1997 to lead one of its four business areas and took up the position of president and ceo in 2001,neutral,positive,"['area_up', 'business_up']",[]
+teleste was set up in 1954 and is divided into broadband cable networks and video networks business areas,neutral,positive,"['area_up', 'business_up', 'teleste_up']",[]
+in august october 2010 the company s result before taxes totalled eur 9 6 mn up from eur 0 5 mn in the corresponding period in 2009,positive,neutral,"['eur_up', 'period_up']","['company_up', 'result_up']"
+stock exchange announcement 20 july 2006 1 1 basware share subscriptions with warrants and increase in share capital a total of 119 850 shares have been subscribed with basware warrant program,neutral,positive,"['capital_increas', 'share_increas']",[]
+following this increase huhtamaki s registered share capital is eur360 62 m and the number of shares outstanding is 106 063 320,neutral,positive,"['capital_increas', 'share_increas']",[]
