@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import os
 
-DIRECTIONAL_WORDS_FILEPATH = '/media/dmlab/My Passport/DATA/Lexicon/Directional_words.csv'
+DIRECTIONAL_WORDS_FILEPATH = r'C:\Users\Jihye Park\OneDrive\Ph.D\연구\02.Financial Sentiment Lexicon\Data\Directional_words.csv'
 
 stemmer = PorterStemmer()
 lemmatizer=WordNetLemmatizer()

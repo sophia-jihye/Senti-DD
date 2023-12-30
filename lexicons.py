@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import nltk
 nltk.download('vader_lexicon')
@@ -13,12 +14,14 @@ from nltk.stem import WordNetLemmatizer
 from afinn import Afinn
 from sentistrength import PySentiStr
 
-LM_FILEPATH = '/media/dmlab/My Passport/DATA/Lexicon/LM_Word_List/LM_Word_List.csv'
-senti_strength_jar_filepath = '/media/dmlab/My Passport/DATA/Lexicon/SentiStrength/SentiStrengthCom.jar'
-senti_strength_data_dirname = '/media/dmlab/My Passport/DATA/Lexicon/SentiStrength/SentiStrengthDataEnglishOctober2019/'
-mpqa_filepath = '/media/dmlab/My Passport/DATA/Lexicon/MPQA_Subjectivity/subjclueslen1-HLTEMNLP05.csv'
-socal_filepath = '/media/dmlab/My Passport/DATA/Lexicon/SO-CAL/adj_adv_noun_verb.csv'
-sentiment140_filepath = '/media/dmlab/My Passport/DATA/Lexicon/Sentiment140/unigrams-pmilexicon.csv'
+data_dir = r'C:\Users\Jihye Park\OneDrive\Ph.D\연구\02.Financial Sentiment Lexicon\Data'
+
+LM_FILEPATH = os.path.join(data_dir, 'LM_Word_List', 'LM_Word_List.csv')
+senti_strength_jar_filepath = os.path.join(data_dir, 'SentiStrength', 'SentiStrengthCom.jar')
+senti_strength_data_dirname = os.path.join(data_dir, 'SentiStrength', 'SentiStrengthDataEnglishOctober2019')
+mpqa_filepath = os.path.join(data_dir, 'MPQA_Subjectivity', 'subjclueslen1-HLTEMNLP05.csv')
+socal_filepath = os.path.join(data_dir, 'SO-CAL', 'adj_adv_noun_verb.csv')
+sentiment140_filepath = os.path.join(data_dir, 'Sentiment140', 'unigrams-pmilexicon.csv')
 
 stemmer = PorterStemmer()
 lemmatizer=WordNetLemmatizer()

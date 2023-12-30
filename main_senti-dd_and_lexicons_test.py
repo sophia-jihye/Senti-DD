@@ -16,10 +16,11 @@ test_filepaths = sorted(glob(os.path.join(target_data_dir, 'test.csv')))
 
 if __name__ == '__main__':
 
-    lexicon_list = [(lexicons.senti_dd_polarity, 'senti-dd'), (lexicons.lm_polarity, 'lm'), (lexicons.vader_polarity, 'vader'), \
-                (lexicons.swn_polarity, 'swn'), (lexicons.textblob_polarity, 'textblob'), (lexicons.sentiment140_polarity, 'Sen140'), \
-                (lexicons.socal_polarity, 'SO-CAL'), (lexicons.mpqa_polarity, 'MPQA'), (lexicons.afinn_polarity, 'AFINN'), \
-                (lexicons.sentistrength_polarity, 'SentiStrength')]
+    lexicon_list = [(lexicons.senti_dd_polarity, 'senti-dd')]
+#                     , (lexicons.lm_polarity, 'lm'), (lexicons.vader_polarity, 'vader'), \
+#                 (lexicons.swn_polarity, 'swn'), (lexicons.textblob_polarity, 'textblob'), (lexicons.sentiment140_polarity, 'Sen140'), \
+#                 (lexicons.socal_polarity, 'SO-CAL'), (lexicons.mpqa_polarity, 'MPQA'), (lexicons.afinn_polarity, 'AFINN'), \
+#                 (lexicons.sentistrength_polarity, 'SentiStrength')]
 
     # Construct Senti-DD
     for train_filepath in train_filepaths:
