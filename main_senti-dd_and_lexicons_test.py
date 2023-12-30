@@ -7,9 +7,9 @@ from senti_dd_construction import construct_senti_dd
 import lexicons
 
 data_dir = './data'
-# target_data_dir = os.path.join(data_dir, 'FinancialPhrase*', '*') # FPB
+target_data_dir = os.path.join(data_dir, 'FinancialPhrase*', '*') # FPB
 # target_data_dir = os.path.join(data_dir, 'SemEval*', '*') # SemEval
-target_data_dir = os.path.join(data_dir, 'FiQA*', '*') # FiQA
+# target_data_dir = os.path.join(data_dir, 'FiQA*', '*') # FiQA
 
 train_filepaths = sorted(glob(os.path.join(target_data_dir, 'train.csv'))) 
 test_filepaths = sorted(glob(os.path.join(target_data_dir, 'test.csv'))) 

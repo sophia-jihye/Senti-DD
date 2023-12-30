@@ -53,8 +53,9 @@ def senti_dd_polarity(text, senti_dd):
     
     score = lm_score(text)
     context_sentiment_score = senti_dd_score(text, senti_dd)
-    if context_sentiment_score > 0: score += 1
-    elif context_sentiment_score < 0: score -= 1
+    score += context_sentiment_score # Remove hyperparameter k3, which was set to one in the previous version of the manuscript.
+#     if context_sentiment_score > 0: score += 1
+#     elif context_sentiment_score < 0: score -= 1
     
     if score > 0: return 'positive'
     elif score < 0: return 'negative'

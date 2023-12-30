@@ -12,13 +12,13 @@ new bg group ceo helge lund starts earlier than expected,positive,neutral,False
 lse deutsche boerse merger would signal end to exchange mega deals,positive,neutral,False
 aviva promises higher dividends to boost flagging share price,positive,positive,True
 fda approves nps drug in move validating shire takeover deal,positive,neutral,False
-priceline s stock jumps to new high for the year after barclays upgrade,positive,neutral,False
-tesco sales recover as focus returns to core business,positive,neutral,False
+priceline s stock jumps to new high for the year after barclays upgrade,positive,negative,False
+tesco sales recover as focus returns to core business,positive,negative,False
 companiesphilips transfers $900m of pension obligations,positive,neutral,False
 investor woodford calls for outsider to head glaxosmithkline,positive,neutral,False
 british american tobacco says would fight uk plain packaging law,negative,neutral,False
 balfour beatty plc set to reinstate dividend and rival national grid plc and centrica plc once more,positive,neutral,False
-old mutual first quarter sales up 18 buoyed by emerging markets,positive,negative,False
+old mutual first quarter sales up 18 buoyed by emerging markets,positive,neutral,False
 standard chartered not raising capital yet as dividend cut,negative,negative,True
 astrazeneca diabetes drug combination faces delay after fda rebuff,negative,negative,True
 ex barclays traders sentenced to up to six years jail in libor case,negative,negative,True
@@ -56,7 +56,7 @@ landlord hammerson s nav rises on increased leasing activity,positive,neutral,Fa
 lloyds wins right to buy bonds back early to save 1 billion pounds,positive,neutral,False
 standard chartered s shares plunge 7 after fitch downgrade,negative,negative,True
 lloyds banking group s share price lifts amid reports bank is poised to axe hundreds of uk jobs,positive,neutral,False
-land securities warns of rent rises,negative,negative,True
+land securities warns of rent rises,negative,neutral,False
 worldpay readies for â£6bn london float,positive,neutral,False
 bp cuts capex for third time this year to deal with weak oil,negative,negative,True
 ftse rallies off three month low boosted by stanchart sainsbury,positive,positive,True
@@ -67,13 +67,13 @@ update 1 rio tinto to sell aluminium assets in $1 bln deal paper,positive,neutra
 valeant names interim leader as ceo remains hospitalized,neutral,neutral,True
 global markets stocks gain on royal dutch shell bid oil slumps,positive,positive,True
 rbs and barclays shares temporarily suspended amid heavily losses,negative,negative,True
-brief aviva aims to increase dividend pay out ratio to 50 pct in 2017,positive,neutral,False
+brief aviva aims to increase dividend pay out ratio to 50 pct in 2017,positive,positive,True
 british american tobacco accused of bribing senior politicians to sabotage,negative,negative,True
 primark racks up a happy christmas after strong sales,positive,positive,True
 legal & general share price: finance chief to step down,negative,negative,True
 us seeks huawei records on dealings with sanctioned nations,negative,neutral,False
 bp pay boss feels the heat from revolt over dudley s â£14 million,negative,neutral,False
-companiesnational grid lines up sale of gas business,positive,negative,False
+companiesnational grid lines up sale of gas business,positive,neutral,False
 standard chartered rbs escape capital raising in stress test,positive,negative,False
 companiesastrazeneca wins nod for blockbuster hopeful,positive,neutral,False
 bp signs $12 billion energy deal in egypt,positive,neutral,False
@@ -100,12 +100,12 @@ astrazeneca to buy zs pharma for $2 7 billion,positive,neutral,False
 four former barclays bankers jailed over libor,negative,neutral,False
 astrazeneca s good deal turns bad,negative,neutral,False
 us urges final approval of $20 billion bp oil spill pact,negative,neutral,False
-update 1 norway s statoil shakes up top management replaces cfo,negative,neutral,False
+update 1 norway s statoil shakes up top management replaces cfo,negative,positive,False
 companiesmorrison evicted from ftse 100 as worldpay joins,negative,negative,True
 l&g still paying price for dividend cut during crisis chief says,negative,negative,True
 3g capital warren buffett s favorite partner in deals worth billions,positive,positive,True
 fda panel backs glaxo asthma drug for adults not adolescents,positive,neutral,False
-royal mail chairman donald brydon set to step down,negative,neutral,False
+royal mail chairman donald brydon set to step down,negative,negative,True
 should you buy jumbo yielders british american tobacco plc centrica plc & john wood group plc,positive,neutral,False
 update 1 petrofac posts net loss hurt by shetland islands project costs,negative,negative,True
 clinigen chosen by astrazeneca to manage access programme for next,positive,neutral,False
@@ -120,13 +120,13 @@ we d support hsbc leaving london says standard life,positive,neutral,False
 failure of leadership behind tesco troubles says former ceo leahy,negative,negative,True
 rbi surprises street; sensex pares gains after hitting mount 30k,positive,positive,True
 update 1 rbs raising $3 1 billion through issue of coco bonds,positive,neutral,False
-us stocks wall st rises on berkshire deal china stimulus hopes,positive,neutral,False
+us stocks wall st rises on berkshire deal china stimulus hopes,positive,positive,True
 berkshire seeks to boost its wells fargo stake above 10 percent,positive,positive,True
 ftse slide halted by bp s â£12bn us settlement london report,negative,negative,True
 bidders abandon auction of tesco data unit,negative,negative,True
 warren buffett s awesome feat at berkshire hathaway revisited,positive,neutral,False
 bp chairman defends ceo bob dudley s pay increase,positive,neutral,False
-asahi could be about to snap up more of sabmiller s beers ahead of ab inbev sale,positive,negative,False
+asahi could be about to snap up more of sabmiller s beers ahead of ab inbev sale,positive,neutral,False
 astrazeneca shares climb 3 as drug maker ups profits forecasts,positive,positive,True
 insight hires aviva s david hillier for multi asset team,positive,neutral,False
 lloyds sells irish loan portfolio for â£827m,positive,neutral,False
@@ -145,10 +145,10 @@ l&g fund arm nikko asset management sign bond fund distribution deal,positive,ne
 earnings surge as fund manager schroders reports a record year,positive,positive,True
 arm shrugs off smartphone slowdown as newer designs win share,positive,neutral,False
 standard life impresses as fee based products offset annuities slump,positive,positive,True
-us cancels arctic offshore lease sale after shell drops interest,negative,neutral,False
+us cancels arctic offshore lease sale after shell drops interest,negative,negative,True
 astrazeneca sells us drug rights to perrigo for $380 mln,positive,neutral,False
 update 1 britain s tullow says makes new oil find in kenya,positive,neutral,False
-saudi aramco shell plan to break up motiva divide up assets,negative,negative,True
+saudi aramco shell plan to break up motiva divide up assets,negative,positive,False
 intercontinental exchange opts not to bid for london stock exchange,negative,neutral,False
 britain s ftse hits three week low as financials tesco fall,negative,negative,True
 glencore launches refinancing of credit line,positive,neutral,False
@@ -157,11 +157,11 @@ ftse 100 movers: bg group leads the charge as resource stocks jump,positive,posi
 companiesab inbev signals it won t go hostile for sabmiller,positive,negative,False
 chipotle sales plunge as troubled chain gets federal subpoena,negative,negative,True
 philippines san miguel says to partner with kirin if it bids for sabmiller s,positive,neutral,False
-renewed ab inbev bid for sabmiller ups stake in beer battle,positive,negative,False
+renewed ab inbev bid for sabmiller ups stake in beer battle,positive,positive,True
 nyse owner ice considers offer for lse,positive,neutral,False
 update 1 uk to start selling remaining royal mail shares,negative,neutral,False
 cuadrilla chief francis egan: scaremongering fracking opponents make me angry,negative,neutral,False
-companiestesco bumps up pay for store staff,positive,neutral,False
+companiestesco bumps up pay for store staff,positive,positive,True
 stanchart announces $5 1 billion capital raising plan posts q3 loss,negative,negative,True
 standard life hit by unprecedented number of calls on pension freedoms,negative,neutral,False
 bhp billiton slashes dividend posts $5 67 billion net loss,negative,negative,True
@@ -171,12 +171,12 @@ intercontinental hotels denies reports of starwood merger talks,negative,negativ
 entertainment one dispels itv takeover rumours,positive,neutral,False
 stakes high for astrazeneca heart drug facing tough competition,negative,neutral,False
 marketsus industrials lag as barclays dims view,negative,negative,True
-aviva plans to up pay out ratio says too soon to judge brexit impact,positive,neutral,False
+aviva plans to up pay out ratio says too soon to judge brexit impact,positive,positive,True
 shell challenges exxon dominance with 47 billion pound bid for bg,positive,negative,False
 glaxosmithkline s ceo witty to bow out in march 2017,negative,neutral,False
 oil giant shell to cut around 2800 jobs amid bg takeover,negative,negative,True
 australia clears ab inbev s $100 billion sabmiller buyout plan,positive,neutral,False
-britain s ftse eyes 7th straight daily rise; wolseley lags,negative,neutral,False
+britain s ftse eyes 7th straight daily rise; wolseley lags,negative,positive,False
 helge lund moves to bg a month early,positive,neutral,False
 sse faces profiteering accusations despite 5 3 cut in gas charges,negative,negative,True
 marketsubs goldman sachs cut metals forecasts,negative,negative,True
@@ -185,7 +185,7 @@ glencore shares rally after miner hits back,positive,neutral,False
 us sanctions put gazprom shell alliance plans in jeopardy,negative,positive,False
 aggreko says first half profits will be lower as the oil price rout claims its latest victim,negative,negative,True
 shell offers 50 percent premium to buy bg for $70 billion,positive,neutral,False
-astrazeneca weighing up acerta bid to secure blood cancer drug,positive,neutral,False
+astrazeneca weighing up acerta bid to secure blood cancer drug,positive,positive,True
 brief legal & general s retirement business books 4 billion stg h1 sales,positive,neutral,False
 sab s chairman digs in with board divided on inbev offer,positive,neutral,False
 are arm holdings plc domino s pizza group plc and asos plc 3 must have growth stocks,neutral,neutral,True

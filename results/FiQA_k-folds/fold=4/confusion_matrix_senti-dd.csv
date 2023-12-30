@@ -1,5 +1,5 @@
 true,negative,neutral,positive,n_true
-negative,22,9,3,34
+negative,22,10,2,34
 neutral,0,3,0,3
-positive,3,40,7,50
-n_pred,25,52,10,87
+positive,2,38,10,50
+n_pred,24,51,12,87

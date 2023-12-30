@@ -8,7 +8,7 @@ royal mail needs to deliver on modernisation plans post haste,negative,neutral,F
 domino s pizza worker sacked after crude slur aimed at customer on order screen,negative,neutral,False
 u s debt lures schroders as ecb depresses rates,positive,negative,False
 aviva suspends trading in â£1 8bn uk property fund,negative,negative,True
-marketsshire up 2 5 and baxalta up 6 on $32bn deal,positive,neutral,False
+marketsshire up 2 5 and baxalta up 6 on $32bn deal,positive,positive,True
 aviva fined $27 million by u k regulator over fee failings,negative,negative,True
 uk winners & losers: aviva and friends life lead ftse 100 gainers,positive,positive,True
 retail giant kingfisher reports solid start to the year,positive,neutral,False
@@ -17,9 +17,9 @@ ab inbev to sell more sab assets as seeks eu deal approval,negative,neutral,Fals
 old mutual to split up may list some businesses,positive,neutral,False
 petrofac books further â£30m cost for shetland gas terminal delays,negative,negative,True
 british government stake in lloyds banking group fa,negative,neutral,False
-u k shares extend rebound for second day as easyjet surges,positive,neutral,False
+u k shares extend rebound for second day as easyjet surges,positive,positive,True
 weir group offloads two renewables units,positive,neutral,False
-intercontinental hotels group share price climbs on $1 5bn special dividend,positive,neutral,False
+intercontinental hotels group share price climbs on $1 5bn special dividend,positive,positive,True
 rbs invites pitches for broker role ahead of privatisation sources,positive,neutral,False
 exxon beaumont cdu overhaul to be slowed by accident: sources,negative,negative,True
 companiesdeutsche taps ex stanchart executive for audit role,neutral,neutral,True
@@ -27,7 +27,7 @@ industry newsstrong results at travis perkins marred by plumbing impairment,nega
 sainsbury cfo rogers to replace home retail ceo walden,neutral,neutral,True
 rpt uk supermarkets braced for battle as tesco comes out fighting,positive,neutral,False
 companiesroyal mail swerves new pricing regulations,negative,neutral,False
-london morning briefing: hsbc and standard chartered shares rise,positive,negative,False
+london morning briefing: hsbc and standard chartered shares rise,positive,positive,True
 sainsbury s asda tesco and morrisons will all cut petrol prices as oil falls,negative,negative,True
 ftse ends lower on weaker miners tesco outperforms,positive,negative,False
 barclays launches first 100 mortgages since crisis,positive,negative,False
@@ -46,7 +46,7 @@ unilever finds growth more elusive as sales meet estimates,positive,neutral,Fals
 5 years after bp spill: what s changed in offshore drilling,negative,neutral,False
 rpt update 2 former jefferies trader litvak s conviction overturned,positive,negative,False
 buffett s berkshire delivers 9 8 profit growth,positive,neutral,False
-abn amro: bank that brought down rbs poised for return to the market,positive,neutral,False
+abn amro: bank that brought down rbs poised for return to the market,positive,negative,False
 tesco loses two more directors as garfield and tammenoms step down,negative,negative,True
 intertek group announces strategic update outlining its plan,positive,neutral,False
 bp wins right to appeal some gulf spill damages claims,positive,negative,False
@@ -83,7 +83,7 @@ silicon fen champion brings exacting approach to rolls royce,positive,neutral,Fa
 sale of tesco s clubcard business to wpp on the verge of collapse,negative,negative,True
 wpp world s largest ad agency reports strong 2015 growth,positive,positive,True
 is trouble brewing at legal & general group plc and aviva plc,negative,negative,True
-uk s ftse climbs to record closing high as standard chartered surges,positive,neutral,False
+uk s ftse climbs to record closing high as standard chartered surges,positive,positive,True
 shire sees baxalta deal closing as expected after new rules,positive,negative,False
 old mutual faces backlash over â£9m chief exec payout plan,negative,neutral,False
 update 2 exchanges barclays win dismissal of us high frequency trading case,positive,neutral,False
@@ -91,20 +91,20 @@ irish said chasing standard chartered rbs as brexit vote nears,positive,neutral,
 glencore raises $2 5bn through share placing to help cut debt load,positive,negative,False
 lloyds will cut 640 jobs close 23 branches as part of 2014 plan,positive,negative,False
 bhp billiton half year profit falls beats forecasts,positive,negative,False
-barclays to speed up cost cuts after new mis selling hit,negative,negative,True
+barclays to speed up cost cuts after new mis selling hit,negative,positive,False
 shell ceo van beurden s remuneration fell in 2015,negative,negative,True
 are aviva plc direct line insurance group plc and admiral group plc set to soar,positive,neutral,False
 verizon and at&t accused of hurting rivals,negative,negative,True
 hargreaves lansdown says first quarter assets hit by stock market flux,negative,neutral,False
 update 1 oil major bp freezes pay in 2015 to cut costs,negative,negative,True
 stanlife leads ftse after strong earnings,positive,positive,True
-novartis buys remaining rights to gsk treatment in deal up to $1 billion,positive,neutral,False
+novartis buys remaining rights to gsk treatment in deal up to $1 billion,positive,positive,True
 tesco share price down as grocer faces sfo investigation outcome,negative,negative,True
 staley to face challenges at barclays,negative,negative,True
 update 1 berkshire applies to boost wells fargo stake above 10 pct,positive,positive,True
 update 1 uk government would oppose any takeover of bp ft,negative,negative,True
 tesco leads ftse higher on clubcard bid reports,positive,positive,True
-randgold profit hit by poor gold price but dividend still increases,negative,neutral,False
+randgold profit hit by poor gold price but dividend still increases,negative,positive,False
 experian says receives class actions related to t mobile breach,negative,negative,True
 bp seeks to get back some gulf oil spill business payouts,positive,neutral,False
 barclays poised to replace sir mike rake as he heads for exit,positive,neutral,False
@@ -112,8 +112,8 @@ fears primark growth is starting to falter,negative,negative,True
 aberdeen am posts h1 outflows says conditions to remain challenging,negative,negative,True
 tata steel working with stanchart for uk unit sale source,positive,neutral,False
 tesco versus sainsbury: weight watcher vs bodybuilder,positive,neutral,False
-astrazeneca profit down as sales of stalwarts fade,negative,neutral,False
-hargreaves lansdown share price falls as costs mount although pensions,negative,neutral,False
+astrazeneca profit down as sales of stalwarts fade,negative,negative,True
+hargreaves lansdown share price falls as costs mount although pensions,negative,negative,True
 london stock exchange shareholders approve merger with deutsche bã¶rse,positive,neutral,False
 diageo sells ryder cup venue gleneagles hotel to ennismore group,positive,neutral,False
 shell chevron await lng s return from pause mode,positive,neutral,False
@@ -128,7 +128,7 @@ uk lawmakers warn royal mail against further price hikes,negative,negative,True
 the sustainability of royal dutch shell s dividend,neutral,neutral,True
 industry newsg4s makes positive start to year no new impairments,positive,neutral,False
 astrazeneca acquires zs pharma in $2 7 billion deal,positive,neutral,False
-companiestravis perkins lifts dividend earnings rise 15,positive,negative,False
+companiestravis perkins lifts dividend earnings rise 15,positive,neutral,False
 astrazeneca wins fda approval for key new lung cancer pill,positive,neutral,False
 industry newshammerson joint venture buys dublin loan portfolio,positive,neutral,False
 barclays says not been offered deferred prosecution deal by sfo,positive,negative,False
@@ -146,7 +146,7 @@ rbs bosses ordered to go out and meet small firms,positive,neutral,False
 astrazeneca sells rights to anaesthetics to south africa s aspen,positive,neutral,False
 update 1 astrazeneca sells rare cancer drug to sanofi for up to $300 mln,positive,positive,True
 glaxosmithkline beats profit forecasts despite advair hit lower margins,positive,positive,True
-news feedftse 100 movers: ashtead jumps on strong interims; glencore bp in,positive,neutral,False
+news feedftse 100 movers: ashtead jumps on strong interims; glencore bp in,positive,positive,True
 ab inbev offers to sell some sabmiller brands,positive,neutral,False
 shell to buy bg group in $69 7 billion takeover,positive,neutral,False
 ceo of berkshire s gen re to retire; jain s role grows,negative,positive,False
@@ -171,7 +171,7 @@ britain s ftse advances as royal mail rises,positive,positive,True
 prudential shares halted in hong kong pending announcement,negative,negative,True
 refile aviva investors to move 34 bln euros in assets from axa fund arm,negative,neutral,False
 ice said to start lining up financing for lse bidding war,positive,neutral,False
-standard chartered shares jump most since 12 after upgrades,positive,negative,False
+standard chartered shares jump most since 12 after upgrades,positive,positive,True
 buzz bg group: outperforms sector after record output,positive,positive,True
 glencore sees tripoli based noc as sole legal seller of libyan oil,positive,neutral,False
 update 1 bhp billiton s credit ratings fragile in fy16 agencies warn,negative,negative,True
@@ -185,7 +185,7 @@ rbs breaks with past by tearing investment bank apart,negative,negative,True
 australian mining slowdown hits aggreko,negative,negative,True
 dyson wants to create a hair dryer revolution,positive,neutral,False
 nine banks including barclays citi agree to pay $2 billion to settle forex,negative,neutral,False
-questor share tip: mondi shares jump 10pc on strong start,positive,neutral,False
+questor share tip: mondi shares jump 10pc on strong start,positive,positive,True
 merged lse and deutsche bã¶rse would be led by germany s kengeter,positive,neutral,False
 bp shares tumble after $2 2bn fourth quarter loss,negative,negative,True
 rbs becomes a shadow of its former self,negative,neutral,False

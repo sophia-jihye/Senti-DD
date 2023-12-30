@@ -1,5 +1,5 @@
 headline,label,prediction,correct
-persimmon sees post election pick up,positive,neutral,False
+persimmon sees post election pick up,positive,positive,True
 shell to go ahead with petrochemical plant in pennsylvania,positive,neutral,False
 bae systems banks on us defence spending to fix sales slide,negative,neutral,False
 morrisons finance chief to fill gap as ceo leaves early,negative,neutral,False
@@ -13,10 +13,10 @@ companiesex city watchdog turner joins prudential board,neutral,neutral,True
 rbs share price: group plans to slash 600 jobs,negative,neutral,False
 astrazeneca digs into precision medicine with lung heart deals,positive,neutral,False
 hsbc hit by fresh details of tax evasion claims,negative,negative,True
-royal mail hands chief executive moya greene a 13 rise in her pay package,positive,neutral,False
+royal mail hands chief executive moya greene a 13 rise in her pay package,positive,positive,True
 tullow oil eyes lower earnings as output falls,negative,negative,True
 fca set to fine lloyds record â£100m over ppi,negative,neutral,False
-britain s ftse rises led up by glencore surge,positive,negative,False
+britain s ftse rises led up by glencore surge,positive,positive,True
 glencore sells agriculture stake for $2 5bn,positive,neutral,False
 report: financial times up for sale,negative,positive,False
 morrisons and debenhams surprise city with christmas bounce back,positive,neutral,False
@@ -49,7 +49,7 @@ fca bans former rbs libor submitter,negative,negative,True
 press: hsbc chairman hints bank may retain uk domicile tel,positive,neutral,False
 national grid s pretax profit rises 15 percent,positive,positive,True
 bp set to cut hundreds of jobs at north sea operations,negative,negative,True
-fda approves astrazeneca drug for advanced lung cancer,positive,neutral,False
+fda approves astrazeneca drug for advanced lung cancer,positive,positive,True
 tesco to pay â£8m to settle class action lawsuit after accounting scandal,negative,neutral,False
 despite sales growth uk s tesco cautions recovery to be bumpy,negative,neutral,False
 amazon to attack uk grocery market with morrisons deal,positive,neutral,False
@@ -134,7 +134,7 @@ bunzl backs 2015 view buys more businesses,positive,neutral,False
 blueprint receives fda nod to proceed with clinical trials for 2 drug,positive,neutral,False
 companiesunilever sales lifted by ice cream in soft economy,positive,neutral,False
 do it for me trend underpins uk sales growth at kingfisher,positive,neutral,False
-shire says internal synergy goals from baxalta deal higher,positive,neutral,False
+shire says internal synergy goals from baxalta deal higher,positive,positive,True
 update 1 nomura rbs must pay $806 mln in mortgage bond case us judge,negative,neutral,False
 wpp boosts sales despite cautious clients,positive,positive,True
 drugmaker shire to buy baxalta for $32 billion after 6 month pursuit,positive,neutral,False
@@ -150,7 +150,7 @@ easyjet dismisses lufthansa low cost plan in contest for germany,negative,negati
 commentopening quote: tesco; premier foods jilted; fca on ipos,neutral,positive,False
 aspen to buy anaesthetics from astrazeneca for $520 million,positive,neutral,False
 weir leads ftse lower after oil price profits warning,negative,negative,True
-update 5 barclays chairman mcfarlane axes ceo to speed up strategic change,negative,neutral,False
+update 5 barclays chairman mcfarlane axes ceo to speed up strategic change,negative,positive,False
 astrazeneca : fda panel reviews savor study results for onglyza,positive,neutral,False
 arm royalties accelerate as smartphone market regains strength,positive,positive,True
 bunzl delivers small profit increase for 2014,positive,positive,True
@@ -170,14 +170,14 @@ why i would put j sainsbury plc in my trolley before wm morrison supermarkets,ne
 barclays bad bank chief to step down,negative,neutral,False
 aviva shuts friends life head office in rapid integration move,negative,negative,True
 shares in easyjet fall to three year low after brexit profit warning,negative,negative,True
-gsk aims to file up to 20 new drugs for approval by 2020,positive,neutral,False
+gsk aims to file up to 20 new drugs for approval by 2020,positive,positive,True
 itv share price jumps on report of comcast s nbcuniversal bidding to takeover,positive,positive,True
 lawmakers worry ab inbev beer deal will hurt craft brewers,negative,negative,True
 royal mail share price: postal service issues trading update,negative,neutral,False
 citigroup to sell onemain to springleaf for $4 25 billion,positive,neutral,False
 protesters gather in seattle to block access to shell oil rig,negative,negative,True
-clydesdale bank h1 profits weighed down by ppi charge,negative,negative,True
-barclays reports 8 fall in annual profits,negative,neutral,False
+clydesdale bank h1 profits weighed down by ppi charge,negative,neutral,False
+barclays reports 8 fall in annual profits,negative,negative,True
 lse gets hong kong regulatory nod to hk firms to become lse members,positive,neutral,False
 admiral and schroders lift ftse with profits surge,positive,positive,True
 gsk joins china trade push as uk trumpets healthcare deals,positive,neutral,False

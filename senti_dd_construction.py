@@ -89,7 +89,7 @@ def construct_senti_dd(train_filepath, dd_filepath, senti_dd_filepath):
     df.dropna(subset=['direction_dependency'], inplace=True)
 
     df['nouns'] = df['headline'].apply(lambda x: get_preprocessed_nouns(x))
-    selected_tokens = select_frequent_tokens(df.nouns.values, 6)
+    selected_tokens = select_frequent_tokens(df.nouns.values, 0.01) # Adjust static hyperparameter values to percentages dynamically calculable from the corresponding datasets: k1=5 -> k1=1%
     log_content += '\n\nSelected tokens ({})\n{}'.format(len(selected_tokens), selected_tokens)
     
     df['nouns'] = df['nouns'].apply(lambda nouns: [token for token in nouns if token in selected_tokens])
@@ -140,5 +140,5 @@ def construct_senti_dd(train_filepath, dd_filepath, senti_dd_filepath):
     senti_dd.to_csv(senti_dd_filepath, index=False)
     print('Created', senti_dd_filepath)
     
-    with open(os.path.join(os.path.dirname(train_filepath), "senti_dd_construction.log"), "w") as f:
-        f.write(log_content)
+#     with open(os.path.join(os.path.dirname(train_filepath), "senti_dd_construction.log"), "w") as f:
+#         f.write(log_content)

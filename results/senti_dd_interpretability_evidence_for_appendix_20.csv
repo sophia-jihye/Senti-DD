@@ -1,21 +1,21 @@
 headline,label,senti_dd_prediction,senti_dd_pos_pairs,senti_dd_neg_pairs
-diluted earnings per share eps rose to eur 3 68 from eur 0 50,positive,positive,"['eur_rose', 'share_rose']",[]
-comparable operating profit decreased to eur 13 8 mn from eur 17 1 mn in the corresponding period in 2005,negative,negative,[],"['profit_decreas', 'eur_decreas', 'period_decreas']"
-the world s second largest stainless steel maker said net profit in the three month period until dec 31 surged to euro603 million us$ 781 million or euro3 33 us$ 4 31 per share from euro172 million or euro0 94 per share the previous year,positive,positive,"['maker_surg', 'period_surg', 'world_surg', 'net_surg', 'share_surg', 'month_surg', 'profit_surg', 'year_surg']",[]
-net profit fell by almost half to +é 5 5 million from +é 9 4 million at the end of 2007,negative,negative,[],"['end_fell', 'net_fell', 'profit_fell']"
-in december alone the members of the lithuanian brewers association sold a total of 20 3 million liters of beer an increase of 1 9 percent from the sales of 19 92 million liters in december 2004,positive,positive,"['percent_increas', 'beer_increas', 'sale_increas', 'liter_increas']",[]
-that would be an increase from estimated sales of 117 million last year,positive,positive,"['year_increas', 'sale_increas']",[]
-ragutis which is controlled by the finnish brewery reported a 5 4 per cent rise in beer sales to 10 44 million litres and held an 11 09 per cent market share,positive,positive,"['beer_rise', 'share_rise', 'cent_rise', 'brewery_rise', 'sale_rise']",[]
-operating profit rose from eur 1 94 mn to eur 2 45 mn,positive,positive,"['eur_rose', 'profit_rose']",[]
-both operating profit and net sales for the 12 month period increased respectively from eur21 5 m and eur196 1 m as compared to 2005,positive,positive,"['sale_increas', 'period_increas', 'net_increas', 'month_increas', 'profit_increas']",[]
-finnish silicon wafer technology company okmetic oyj omx helsinki : okm1v reported on thursday 7 august an operating profit of eur5 3 m for the period january june 2008 up from eur3 3 m in the corresponding period in 2007,positive,positive,"['period_up', 'profit_up', 'oyj_up', 'june_up']",['company_up']
-the swedish subsidiary holds 1 0 net smelter return nsr royalties over two advanced copper projects in northern sweden the viscaria and adak projects being developed by avalon minerals ltd asx : avi,neutral,positive,['net_advanc'],[]
-teleste was set up in 1954 and is divided into broadband cable networks and video networks business areas,neutral,positive,"['area_up', 'teleste_up', 'business_up']",[]
-the stock rose for a second day on wednesday bringing its two day rise to gbx12 0 or 2 0,positive,negative,[],"['day_rose', 'day_rise']"
-the stock is trading above both its maps and the 50 day map of sek72 983 is higher than the 200 day map of sek70 283 a bullish indicator,positive,negative,[],['day_higher']
-turun kaupunkin finland based company has awarded contract to lemminkainen talotekniikka oy for electrical installation work,positive,neutral,['contract_award'],['company_award']
-following this increase huhtamaki s registered share capital is eur360 62 m and the number of shares outstanding is 106 063 320,neutral,positive,"['share_increas', 'capital_increas']",[]
+m real s sales are expected to have increased by 4 year on year to eur609m in the second quarter of 2010,positive,positive,"['sale_increas', 'quarter_increas', 'year_increas']",[]
+finnish metal industry solutions supplier outotec oyj net profit rose to 50 4 mln euro $ 72 5 mln for the first nine months of 2007 from 20 1 mln euro $ 28 9 mln for the same period of 2006,positive,positive,"['solution_rose', 'mln_rose', 'profit_rose', 'oyj_rose', 'month_rose', 'net_rose', 'metal_rose', 'period_rose']",[]
+adp news feb 12 2009 finnish construction company lemminkainen oyj hel : lem1s said today its net profit decreased to eur 63 5 million usd 81 1 m for 2008 from eur 80 6 million for 2007,negative,negative,"['construction_decreas', 'company_decreas']","['profit_decreas', 'net_decreas', 'eur_decreas', 'oyj_decreas', 'news_decreas']"
+in the fourth quarter of 2008 net sales increased by 2 to eur 1 050 7 mn from eur 1 027 0 mn in the fourth quarter of 2007,positive,positive,"['quarter_increas', 'mn_increas', 'net_increas', 'sale_increas', 'eur_increas']",[]
+excluding non recurring items pre tax profit surged 45 to eur80m,positive,positive,"['profit_surg', 'item_surg']",[]
+net sales of finnish food industry company l+ñnnen tehtaat s continuing operations increased by 13 in 2008 to eur 349 1 mn from eur 309 6 mn in 2007,positive,positive,"['sale_increas', 'eur_increas', 'mn_increas', 'net_increas']",['company_increas']
+eps from continuing operations came in at 0 30 eur up from 0 17,positive,positive,['eur_up'],[]
+eps for the quarter came in at 0 36 eur up from 0 33 eur a year ago and ahead of forecast of 0 33 eur,positive,positive,"['eur_up', 'year_up', 'quarter_up']",[]
+the chain posted sales of 298 million euros for full 2005 a rise of 19 5 percent year on year,positive,positive,"['sale_rise', 'year_rise', 'percent_rise']",[]
+international sales rose by 59 8 to eur 1 244 4 mn,positive,positive,"['eur_rose', 'sale_rose', 'mn_rose']",[]
+teleste was set up in 1954 and is divided into broadband cable networks and video networks business areas,neutral,positive,"['business_up', 'area_up']",[]
 the company can not give up palm oil altogether however,neutral,negative,[],['company_up']
-unit costs for flight operations fell by 6 4 percent,positive,neutral,['cost_fell'],['percent_fell']
-the stock rose for a third day on tuesday bringing its three day rise to gbx10 50 or 1 8,positive,negative,[],"['day_rose', 'day_rise']"
-the price of raw material aluminium went up at the end of 2005 but the company considers its outlook for 2006 favourable,positive,neutral,['end_up'],['company_up']
+savon koulutuskuntayhtyma finland based company has awarded contract for specialist agricultural or forestry machinery,positive,neutral,['contract_award'],['company_award']
+the stock rose for a second day on wednesday bringing its two day rise to gbx12 0 or 2 0,positive,negative,[],"['day_rose', 'day_rise']"
+finnish it consultancy satama interactive oyj said on november 13 2006 that jarmo lonnfors took up the position of ceo,neutral,positive,['oyj_up'],[]
+stock exchange announcement 20 july 2006 1 1 basware share subscriptions with warrants and increase in share capital a total of 119 850 shares have been subscribed with basware warrant program,neutral,positive,"['share_increas', 'capital_increas']",[]
+elcoteq se is europe s largest contract electronics maker and has set up a unit in bangalore in association with avista advisory of mumbai,neutral,positive,"['contract_up', 'maker_up']",[]
+following this increase huhtamaki s registered share capital is eur360 62 m and the number of shares outstanding is 106 063 320,neutral,positive,"['share_increas', 'capital_increas']",[]
+at the same time profit of the company increased by 10 in h1 and reached ls 79 000,positive,neutral,['profit_increas'],['company_increas']
+repeats sees 2008 operating profit down y y reporting by helsinki newsroom keywords : tecnomen results,negative,neutral,['result_down'],['profit_down']
