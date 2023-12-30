@@ -3,8 +3,8 @@
 
 ## Python implementation of Senti-DD
 * [Senti-DD](https://github.com/sophia-jihye/Senti-DD/blob/main/data/DS50_Entire/Senti-DD.csv)
-* Direction-dependent words extracted from the entire DS50 dataset are in [this page](https://github.com/sophia-jihye/Senti-DD/tree/main/data/DS50_Entire/direction_dependent_entities.csv).
-* Evidence supporting the interpretable sentiment classification process for 2,259 headline sentences (FPB DS100 dataset) using the proposed Senti-DD lexicon is reported in [this page](https://github.com/sophia-jihye/Senti-DD/blob/main/results/senti_dd_interpretability_evidence_for_appendix.csv).
+* Direction-dependent words extracted from the entire DS50 dataset are listed on [this page](https://github.com/sophia-jihye/Senti-DD/tree/main/data/DS50_Entire/direction_dependent_entities.csv).
+* Evidence supporting the interpretable sentiment classification process for 2,259 headline sentences (FPB DS100 dataset) using the proposed Senti-DD lexicon is reported on [this page](https://github.com/sophia-jihye/Senti-DD/blob/main/results/senti_dd_interpretability_evidence_for_appendix.csv).
 
 ## Environments
 ```
